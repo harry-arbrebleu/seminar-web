@@ -9,7 +9,7 @@ if __name__ == '__main__':
             # print(file)
             with open(file, encoding="utf-8") as reader:
                 content = reader.read()
-            content = content.replace("href=\"/", "href=\"https://harry-arbrebleu.github.io/test3/")
-            content = content.replace("src=\"/", "src=\"https://harry-arbrebleu.github.io/test3/")
+            content = content.replace("href=\"/", "href=\"https://harry-arbrebleu.github.io/seminar-web/")
+            content = content.replace("src=\"/", "src=\"https://harry-arbrebleu.github.io/seminar-web/")
             with open(file, 'w', encoding="utf-8") as writer:
                 writer.write(content)
