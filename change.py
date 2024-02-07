@@ -6,6 +6,7 @@ def find_all_files(directory):
 if __name__ == '__main__':
     for file in find_all_files('.\\'):
         if file[:7] == ".\_site" and file[-5:] == ".html":
+            # print(file)
             with open(file, encoding="utf-8") as reader:
                 content = reader.read()
             content = content.replace("href=\"/", "href=\"https://harry-arbrebleu.github.io/test3/")

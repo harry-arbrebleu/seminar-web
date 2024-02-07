@@ -1,0 +1,5 @@
+Configuration file: C:/Users/haruk/Desktop/seminar-public/_config.yml
+            Source: C:/Users/haruk/Desktop/seminar-public
+       Destination: C:/Users/haruk/Desktop/seminar-public/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
