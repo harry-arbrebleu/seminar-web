@@ -1462,516 +1462,516 @@
     
     "relUrl": "/docs/cooking/main/"
   },"209": {
-    "doc": "CTF",
-    "title": "Capture The Flag",
-    "content": "Chef : Luke . ",
-    "url": "/docs/capture_the_flag/main/#capture-the-flag",
+    "doc": "量子論・量子力学",
+    "title": "量子論・量子力学",
+    "content": "Chef : harry_arbrebleu . ",
+    "url": "/docs/quantum_mechanics/main/",
     
-    "relUrl": "/docs/capture_the_flag/main/#capture-the-flag"
+    "relUrl": "/docs/quantum_mechanics/main/"
   },"210": {
-    "doc": "CTF",
+    "doc": "量子論・量子力学",
     "title": "1. 概要",
-    "content": "Capture The Flagとは情報セキュリティの知識を用いてフラグという隠された情報を探し出す競技である． すなわち一言であればハッキング能力を競うものである． ハッキングにはOS，ネットワーク，プログラミング，暗号など広範なITの知識と技能が必要であり，CTFに挑戦することでそれらの能力を向上させることができる． このゼミでは初歩からCTFを通してこのような知識を学んでいく． . ",
-    "url": "/docs/capture_the_flag/main/#1-%E6%A6%82%E8%A6%81",
+    "content": "古典論とは一線を画する量子論について学びを深める．実在論を元にした古典論では . | 物理量は任意の時刻で確定値を持つ． | 測定とは物理量の値を知ることである． | 物理状態は物理量の値全てである． | 時間発展は物理量の値の時間変化である | . といった仮定のもと成立していた．しかし，そのような期待は量子論では成立せず，新たな理論体系が要請された． このようにして作られた理論が量子論である． . ",
+    "url": "/docs/quantum_mechanics/main/#1-%E6%A6%82%E8%A6%81",
     
-    "relUrl": "/docs/capture_the_flag/main/#1-概要"
+    "relUrl": "/docs/quantum_mechanics/main/#1-概要"
   },"211": {
-    "doc": "CTF",
+    "doc": "量子論・量子力学",
     "title": "2. 前提知識",
-    "content": "PCを用意すること．OSは問わない． . ",
-    "url": "/docs/capture_the_flag/main/#2-%E5%89%8D%E6%8F%90%E7%9F%A5%E8%AD%98",
+    "content": "本ゼミではまず，Schrödinger描像を学習する．それにあたり，線型代数の固有値・固有ベクトルの概念が必須となる． また，解析力学の知識があると正準量子化について学習しやすい． . ",
+    "url": "/docs/quantum_mechanics/main/#2-%E5%89%8D%E6%8F%90%E7%9F%A5%E8%AD%98",
     
-    "relUrl": "/docs/capture_the_flag/main/#2-前提知識"
+    "relUrl": "/docs/quantum_mechanics/main/#2-前提知識"
   },"212": {
-    "doc": "CTF",
+    "doc": "量子論・量子力学",
     "title": "3. 計画",
-    "content": "CpawCTFという初心者向けの練習サイトを中心に進めていく． 初回は環境構築になる予定である． . ",
-    "url": "/docs/capture_the_flag/main/#3-%E8%A8%88%E7%94%BB",
+    "content": "参考書に従って進める． . | 第1章: 「古典力学の破綻」，第2章: 「基本的な枠組み」 | 第3章: 「閉じた有限自由度系の純粋状態の量子論」(1節: 「基本的な考え方」から8節: 「ブラとケット」まで) | 第3章: 「閉じた有限自由度系の純粋状態の量子論」(9節: 「射影演算子」から16節: 「連続固有値に関する数学的注意」まで) | 第3章: 「閉じた有限自由度系の純粋状態の量子論」(17節: 「ボルンの確率規則―連続固有値の場合」から26節: 「射影仮説について」まで) | 第4章: 「有限自由度系の正準量子化」(1節: 「古典解析力学」から3節: 「正準交換関係のシュレディンガー表現」まで) | 第4章: 「有限自由度系の正準量子化」(4節: 「フォン・ノイマンの一意性定理」から「無限次元ヒルベルト空間の注意」まで) | 第5章: 「1次元空間を運動する粒子の量子論」(1節: 「1次元空間を運動する粒子のシュレディンガー方程式」から9節: 「重ね合わせの例」まで) | 第5章: 「1次元空間を運動する粒子の量子論」(10節: 「不確定原理のよる基底準位の見積もり」から16節: 「調和振動子」まで) | 第6章: 「時間発展について」，第7章: 「場の量子論―場の量子論入門」 | 第8章: 「ベルの不等式」，第9章: 「基本変数による記述のまとめ」 | . 進捗によっては変更する可能性がある．全体で10回から15回に収まる予定である． . ",
+    "url": "/docs/quantum_mechanics/main/#3-%E8%A8%88%E7%94%BB",
     
-    "relUrl": "/docs/capture_the_flag/main/#3-計画"
+    "relUrl": "/docs/quantum_mechanics/main/#3-計画"
   },"213": {
-    "doc": "CTF",
+    "doc": "量子論・量子力学",
     "title": "4. 参考書",
-    "content": "基本的にない．もし本格的にやってみたければ以下がいいらしい． . 梅内翼など．「詳解セキュリティコンテスト　CTFで学ぶ脆弱性攻略の技術」（マイナビ出版） . ",
-    "url": "/docs/capture_the_flag/main/#4-%E5%8F%82%E8%80%83%E6%9B%B8",
+    "content": "主に以下の本を用いる． . | 清水明，新版 量子論の基礎，サイエンス社 | . また，進んだ参考書として . | J. J. サクライ，現代の量子力学上，吉岡書店 | . を挙げておく． . ",
+    "url": "/docs/quantum_mechanics/main/#4-%E5%8F%82%E8%80%83%E6%9B%B8",
     
-    "relUrl": "/docs/capture_the_flag/main/#4-参考書"
+    "relUrl": "/docs/quantum_mechanics/main/#4-参考書"
   },"214": {
-    "doc": "CTF",
+    "doc": "量子論・量子力学",
     "title": "5. 進め方",
-    "content": ". | 曜日/時限: 未定 | 教室: 未定 | . ",
-    "url": "/docs/capture_the_flag/main/#5-%E9%80%B2%E3%82%81%E6%96%B9",
+    "content": ". | 曜日/時限: 未定 | 教室: 未定 | . 参考書の演習問題はゼミ前に各自チャレンジされたい． . ",
+    "url": "/docs/quantum_mechanics/main/#5-%E9%80%B2%E3%82%81%E6%96%B9",
     
-    "relUrl": "/docs/capture_the_flag/main/#5-進め方"
+    "relUrl": "/docs/quantum_mechanics/main/#5-進め方"
   },"215": {
-    "doc": "CTF",
+    "doc": "量子論・量子力学",
     "title": "6. 関連ゼミ",
-    "content": " ",
-    "url": "/docs/capture_the_flag/main/#6-%E9%96%A2%E9%80%A3%E3%82%BC%E3%83%9F",
+    "content": ". | 線型代数 | 解析力学 | . ",
+    "url": "/docs/quantum_mechanics/main/#6-%E9%96%A2%E9%80%A3%E3%82%BC%E3%83%9F",
     
-    "relUrl": "/docs/capture_the_flag/main/#6-関連ゼミ"
+    "relUrl": "/docs/quantum_mechanics/main/#6-関連ゼミ"
   },"216": {
-    "doc": "CTF",
-    "title": "CTF",
-    "content": " ",
-    "url": "/docs/capture_the_flag/main/",
-    
-    "relUrl": "/docs/capture_the_flag/main/"
-  },"217": {
     "doc": "Geoguessr",
     "title": "Geoguessr",
     "content": " ",
     "url": "/docs/geoguessr/main/",
     
     "relUrl": "/docs/geoguessr/main/"
-  },"218": {
+  },"217": {
     "doc": "Geoguessr",
     "title": "概要",
     "content": "グローバル化が進む現代において，異国文化の相互理解は国際的に活躍する人材にとって必要不可欠である． GeoguessrはGoogleストリートビューを利用したゲームで，世界中のどこかの道にランダムに飛ばされた後それがどこなのかをピンポイントで推測するものである．このゼミではゲームを楽しみながら普段見慣れた街とは全く違う街やどこの国かもわからない奥地における文化的，社会的，地理的特徴を学ぶことを目的とする． . ",
     "url": "/docs/geoguessr/main/#%E6%A6%82%E8%A6%81",
     
     "relUrl": "/docs/geoguessr/main/#概要"
-  },"219": {
+  },"218": {
     "doc": "Geoguessr",
     "title": "必要知識",
     "content": "英語で用いられる26文字のアルファベットと，9種類のアラビア数字を読めること．英語なのか，ほかの外国語なのかを理解できること．具体的にそれが何語であるか判定することはできなくてもよい． . またPC, マウスの組を用意することを強く推奨する．スマホやiPadでのプレーも一応可能ではある． . ",
     "url": "/docs/geoguessr/main/#%E5%BF%85%E8%A6%81%E7%9F%A5%E8%AD%98",
     
     "relUrl": "/docs/geoguessr/main/#必要知識"
-  },"220": {
+  },"219": {
     "doc": "Geoguessr",
     "title": "計画",
     "content": "基本的には演習問題を中心に進めていく．基礎的な知識の解説も行う． . | 大陸・地域の特定 | ヨーロッパ | アジアの国々 | 南北アメリカの国々 | . なお，アフリカはアドホックであまり教養にならないので時間をとって解説することはない． . ",
     "url": "/docs/geoguessr/main/#%E8%A8%88%E7%94%BB",
     
     "relUrl": "/docs/geoguessr/main/#計画"
-  },"221": {
+  },"220": {
     "doc": "表現論",
     "title": "表現論",
     "content": "Chef : momoyuu . ",
     "url": "/docs/representation/main/",
     
     "relUrl": "/docs/representation/main/"
-  },"222": {
+  },"221": {
     "doc": "表現論",
     "title": "1. 概要",
     "content": "表現論は代数学の中の一分野であるが，その応用は代数学の範疇にとどまらず，数学の他の分野や自然科学において非常に重宝されている．本ゼミでは，そのような応用例にも触れながら，表現論を一から学ぶことを目的とする．また，有限群の表現および連続群の表現を学ぶことを主な目標とする． . ",
     "url": "/docs/representation/main/#1-%E6%A6%82%E8%A6%81",
     
     "relUrl": "/docs/representation/main/#1-概要"
-  },"223": {
+  },"222": {
     "doc": "表現論",
     "title": "2. 前提知識",
     "content": "復習の回を設ける予定ではあるが，群論および位相空間論の基本的な議論は既知のものとする．具体的には，群論については少なくとも剰余群，準同型定理，半直積辺りの知識を想定し，位相空間論については，直積位相，コンパクト性，連結性辺りの知識を想定する． . ",
     "url": "/docs/representation/main/#2-%E5%89%8D%E6%8F%90%E7%9F%A5%E8%AD%98",
     
     "relUrl": "/docs/representation/main/#2-前提知識"
-  },"224": {
+  },"223": {
     "doc": "表現論",
     "title": "3. 計画",
     "content": ". | 群論と位相空間論の復習 | 有限群の表現 | Lie 代数 | 連続群の表現 | . ",
     "url": "/docs/representation/main/#3-%E8%A8%88%E7%94%BB",
     
     "relUrl": "/docs/representation/main/#3-計画"
-  },"225": {
+  },"224": {
     "doc": "表現論",
     "title": "4. 参考書",
     "content": "主に，江沢洋・島和久「群と表現」（岩波書店）を用いることを想定しているが，参加者のレベルや要望に応じて変更する可能性がある． . ",
     "url": "/docs/representation/main/#4-%E5%8F%82%E8%80%83%E6%9B%B8",
     
     "relUrl": "/docs/representation/main/#4-参考書"
-  },"226": {
+  },"225": {
     "doc": "表現論",
     "title": "5. 進め方",
     "content": ". | 曜日/時限: 未定 | 教室: 未定 | . 基本的に対面で行う． . ",
     "url": "/docs/representation/main/#5-%E9%80%B2%E3%82%81%E6%96%B9",
     
     "relUrl": "/docs/representation/main/#5-進め方"
-  },"227": {
+  },"226": {
     "doc": "表現論",
     "title": "6. 関連ゼミ",
     "content": " ",
     "url": "/docs/representation/main/#6-%E9%96%A2%E9%80%A3%E3%82%BC%E3%83%9F",
     
     "relUrl": "/docs/representation/main/#6-関連ゼミ"
-  },"228": {
+  },"227": {
     "doc": "環論",
     "title": "環論",
     "content": "Chef : momoyuu . ",
     "url": "/docs/ring/main/",
     
     "relUrl": "/docs/ring/main/"
-  },"229": {
+  },"228": {
     "doc": "環論",
     "title": "1. 概要",
     "content": "本ゼミでは，代数幾何への橋渡しを想定し，主に可換環論を学ぶことを目的とする． . ",
     "url": "/docs/ring/main/#1-%E6%A6%82%E8%A6%81",
     
     "relUrl": "/docs/ring/main/#1-概要"
-  },"230": {
+  },"229": {
     "doc": "環論",
     "title": "2. 前提知識",
     "content": "群論についての知識は一通り知っているものとして進める（直接的にはなくてもなんとかなるが，要所要所で群論の知識を用いるため）．特に剰余群および準同型定理を理解していることを想定する． . ",
     "url": "/docs/ring/main/#2-%E5%89%8D%E6%8F%90%E7%9F%A5%E8%AD%98",
     
     "relUrl": "/docs/ring/main/#2-前提知識"
-  },"231": {
+  },"230": {
     "doc": "環論",
     "title": "3. 計画",
     "content": ". | 環についての基本的な知見 | 環上の加群 | 可換環論のさらなる知見 | . ",
     "url": "/docs/ring/main/#3-%E8%A8%88%E7%94%BB",
     
     "relUrl": "/docs/ring/main/#3-計画"
-  },"232": {
+  },"231": {
     "doc": "環論",
     "title": "4. 参考書",
     "content": "環上の加群までは雪江明彦「代数学Ⅱ環と体とガロア理論」（日本評論社）を用いる．さらに進む場合は，M. F. Atiyah, I. G. MacDonald, 新妻弘 訳「可換代数入門」（共立出版）を用いることを想定している．また必要に応じて，桂利行「代数学Ⅱ環上の加群」（東京大学出版会）などを用いる． . ",
     "url": "/docs/ring/main/#4-%E5%8F%82%E8%80%83%E6%9B%B8",
     
     "relUrl": "/docs/ring/main/#4-参考書"
-  },"233": {
+  },"232": {
     "doc": "環論",
     "title": "5. 進め方",
     "content": ". | 曜日/時限: 未定 | 教室: 未定 | . 基本的に対面で行う． . ",
     "url": "/docs/ring/main/#5-%E9%80%B2%E3%82%81%E6%96%B9",
     
     "relUrl": "/docs/ring/main/#5-進め方"
-  },"234": {
+  },"233": {
     "doc": "環論",
     "title": "6. 関連ゼミ",
     "content": " ",
     "url": "/docs/ring/main/#6-%E9%96%A2%E9%80%A3%E3%82%BC%E3%83%9F",
     
     "relUrl": "/docs/ring/main/#6-関連ゼミ"
-  },"235": {
+  },"234": {
     "doc": "第0回授業資料",
     "title": "第0回授業資料",
     "content": " ",
     "url": "/docs/set/corse/0/main/",
     
     "relUrl": "/docs/set/corse/0/main/"
-  },"236": {
+  },"235": {
     "doc": "第0回授業資料",
     "title": "授業資料",
     "content": "初学者のための集合論入門 . View PDF 初学者のための集合論入門(演習編) . View PDF ",
     "url": "/docs/set/corse/0/main/#%E6%8E%88%E6%A5%AD%E8%B3%87%E6%96%99",
     
     "relUrl": "/docs/set/corse/0/main/#授業資料"
-  },"237": {
+  },"236": {
     "doc": "集合論",
     "title": "集合論",
     "content": "Chef : momoyuu . ",
     "url": "/docs/set/main/",
     
     "relUrl": "/docs/set/main/"
-  },"238": {
+  },"237": {
     "doc": "集合論",
     "title": "1. 概要",
     "content": "現代数学はいずれも集合論の上に構築される．本ゼミは，これから数学を学ぶにあたって必要となる最低限の集合論の記号・用語を学ぶことを目的とする． . ",
     "url": "/docs/set/main/#1-%E6%A6%82%E8%A6%81",
     
     "relUrl": "/docs/set/main/#1-概要"
-  },"239": {
+  },"238": {
     "doc": "集合論",
     "title": "2. 前提知識",
     "content": "基本的に前提知識はなくてよい． . ",
     "url": "/docs/set/main/#2-%E5%89%8D%E6%8F%90%E7%9F%A5%E8%AD%98",
     
     "relUrl": "/docs/set/main/#2-前提知識"
-  },"240": {
+  },"239": {
     "doc": "集合論",
     "title": "3. 計画",
     "content": ". | 命題 | 集合 | 写像 | 二項関係 | . ",
     "url": "/docs/set/main/#3-%E8%A8%88%E7%94%BB",
     
     "relUrl": "/docs/set/main/#3-計画"
-  },"241": {
+  },"240": {
     "doc": "集合論",
     "title": "4. 参考書",
     "content": "第0回授業ページにて配布する「初学者のための集合論入門」，および「初学者のための集合論入門(演習編)」を用いて進める． . ",
     "url": "/docs/set/main/#4-%E5%8F%82%E8%80%83%E6%9B%B8",
     
     "relUrl": "/docs/set/main/#4-参考書"
-  },"242": {
+  },"241": {
     "doc": "集合論",
     "title": "5. 進め方",
     "content": ". | 曜日/時限: 未定 | 教室: 未定 | . 基本的に対面で行う．理論についての資料は各自で読み進め，解いてきてもらった演習問題を発表する形式で進める． . ",
     "url": "/docs/set/main/#5-%E9%80%B2%E3%82%81%E6%96%B9",
     
     "relUrl": "/docs/set/main/#5-進め方"
-  },"243": {
+  },"242": {
     "doc": "集合論",
     "title": "6. 関連ゼミ",
     "content": " ",
     "url": "/docs/set/main/#6-%E9%96%A2%E9%80%A3%E3%82%BC%E3%83%9F",
     
     "relUrl": "/docs/set/main/#6-関連ゼミ"
-  },"244": {
+  },"243": {
     "doc": "Español",
     "title": "Español",
     "content": "Chef : Kakeru SUGITA . ",
     "url": "/docs/spanish/main/",
     
     "relUrl": "/docs/spanish/main/"
-  },"245": {
+  },"244": {
     "doc": "Español",
     "title": "1. 目的",
     "content": "スペイン語の発音規則を学び，音読できるようになる． スペイン語での基本的な動詞の活用を学び，現在形を使えるようになる． . ",
     "url": "/docs/spanish/main/#1-%E7%9B%AE%E7%9A%84",
     
     "relUrl": "/docs/spanish/main/#1-目的"
-  },"246": {
+  },"245": {
     "doc": "Español",
     "title": "2. 前提知識",
     "content": "スペイン語初学者を対象としているため，前提知識を必要としない． . ",
     "url": "/docs/spanish/main/#2-%E5%89%8D%E6%8F%90%E7%9F%A5%E8%AD%98",
     
     "relUrl": "/docs/spanish/main/#2-前提知識"
-  },"247": {
+  },"246": {
     "doc": "Español",
     "title": "3. 計画",
     "content": ". | 文字，発音，名詞，冠詞 | 形容詞，代名詞 | Ser動詞，estar動詞 | 規則動詞（-ar，-er，-ir） | 不規則動詞 | 人称代名詞，再帰代名詞 | 現在分詞（進行形），過去分詞（現在完了） | . 進捗度合い，希望に応じて， . | 比較級，最上級，絶対最上級 | 点過去，線過去 | 関係詞 | 過去完了，未来，過去未来，未来完了，過去未来完了 | 受動文，無人称文 | 接続法 | . を行う可能性あり． . ",
     "url": "/docs/spanish/main/#3-%E8%A8%88%E7%94%BB",
     
     "relUrl": "/docs/spanish/main/#3-計画"
-  },"248": {
+  },"247": {
     "doc": "Español",
     "title": "4. 参考書",
     "content": "特に指定しないが，下記の参考書の順番で進める． . | 佐竹謙一. 本気で学ぶスペイン語 : 発音・会話・文法・読解の力を基礎から積み上げる. 東京, ベレ出版, 2022. | . ",
     "url": "/docs/spanish/main/#4-%E5%8F%82%E8%80%83%E6%9B%B8",
     
     "relUrl": "/docs/spanish/main/#4-参考書"
-  },"249": {
+  },"248": {
     "doc": "Español",
     "title": "5. 進め方",
     "content": ". | 曜日/時限: 未定（基本的に週1回，希望があれば2回以上も行う．） | 教室: 未定 | . 基本的に対面で行い，一緒に勉強をする． . ",
     "url": "/docs/spanish/main/#5-%E9%80%B2%E3%82%81%E6%96%B9",
     
     "relUrl": "/docs/spanish/main/#5-進め方"
-  },"250": {
+  },"249": {
     "doc": "Español",
     "title": "6. 関連ゼミ",
     "content": " ",
     "url": "/docs/spanish/main/#6-%E9%96%A2%E9%80%A3%E3%82%BC%E3%83%9F",
     
     "relUrl": "/docs/spanish/main/#6-関連ゼミ"
-  },"251": {
+  },"250": {
     "doc": "統計力学",
     "title": "統計力学",
     "content": "Chef : Yuto Masuda . ",
     "url": "/docs/statistical_mechanics/main/",
     
     "relUrl": "/docs/statistical_mechanics/main/"
-  },"252": {
+  },"251": {
     "doc": "統計力学",
     "title": "1. 概要",
     "content": "統計力学はミクロとマクロをつなぐ学問である．「予想されるように、ミクロの世界とマクロの世界を結ぶのは、きわめて非自明で困難な課題であり、今日でも未解決の点は無数にある。 それでも「平衡状態」と呼ばれる限定された状況については、ミクロな世界の法則がどのようにしてマクロな世界と対応するかについての、ほぼ完全な一般論が得られている。 それは、人類の科学の中でももっとも大きく成功した基礎分野の一つであり、平衡統計力学あるいは単に統計力学と呼ばれている。 統計力学は、マクロな系の平衡状態を扱う際の必須の言葉であり、物理、工学、化学などの諸分野の基礎の一つになっている。 同時に、統計力学は、様々な非自明で魅力的な研究が展開する生きた研究の舞台でもある。」（田崎統計） 本ゼミでは分野を代表する教科書である田崎晴明「統計力学 I」を用いる．統計力学の知識は量子力学，熱力学，物性物理など幅広い分野につながる． . ",
     "url": "/docs/statistical_mechanics/main/#1-%E6%A6%82%E8%A6%81",
     
     "relUrl": "/docs/statistical_mechanics/main/#1-概要"
-  },"253": {
+  },"252": {
     "doc": "統計力学",
     "title": "2. 前提知識",
     "content": "量子力学，熱力学の簡単な知識があった方が良いが必須ではない．必要に応じて補う． . ",
     "url": "/docs/statistical_mechanics/main/#2-%E5%89%8D%E6%8F%90%E7%9F%A5%E8%AD%98",
     
     "relUrl": "/docs/statistical_mechanics/main/#2-前提知識"
-  },"254": {
+  },"253": {
     "doc": "統計力学",
     "title": "3. 計画",
     "content": "主に田崎晴明「統計力学 I」を用いる． . | 確率論入門　量子論からの準備 . | 平衡統計力学の基礎 . | カノニカル分布の基本的な応用 . | 格子振動と結晶の比熱 . | 電磁場と黒体輻射 進度に応じて計画は柔軟に変更する . | . ",
     "url": "/docs/statistical_mechanics/main/#3-%E8%A8%88%E7%94%BB",
     
     "relUrl": "/docs/statistical_mechanics/main/#3-計画"
-  },"255": {
+  },"254": {
     "doc": "統計力学",
     "title": "4. 参考書",
     "content": ". | メイン . | 田崎晴明「統計力学 I」(培風館) | . | サブ . | 田崎晴明「統計力学 II」(培風館) | 同じ教科書を題材とした授業動画: 物理情報工学科 藤谷洋平「統計物理」 | モチベを上げるための動画: 予備校のノリで学ぶ「大学の数学・物理」「統計物理学への招待【名古屋大学講演】」 | . | . ",
     "url": "/docs/statistical_mechanics/main/#4-%E5%8F%82%E8%80%83%E6%9B%B8",
     
     "relUrl": "/docs/statistical_mechanics/main/#4-参考書"
-  },"256": {
+  },"255": {
     "doc": "統計力学",
     "title": "5. 進め方",
     "content": ". | 曜日/時限: 未定 | 教室: 未定 | . 基本的に対面で行う． . ",
     "url": "/docs/statistical_mechanics/main/#5-%E9%80%B2%E3%82%81%E6%96%B9",
     
     "relUrl": "/docs/statistical_mechanics/main/#5-進め方"
-  },"257": {
+  },"256": {
     "doc": "統計力学",
     "title": "6. 関連ゼミ",
     "content": ". | 熱力学 | 固体物理学 | 量子力学 | . ",
     "url": "/docs/statistical_mechanics/main/#6-%E9%96%A2%E9%80%A3%E3%82%BC%E3%83%9F",
     
     "relUrl": "/docs/statistical_mechanics/main/#6-関連ゼミ"
-  },"258": {
+  },"257": {
     "doc": "相対論",
     "title": "相対性理論",
     "content": "Chef : Luke . ",
     "url": "/docs/theory_of_relativity/main/#%E7%9B%B8%E5%AF%BE%E6%80%A7%E7%90%86%E8%AB%96",
     
     "relUrl": "/docs/theory_of_relativity/main/#相対性理論"
-  },"259": {
+  },"258": {
     "doc": "相対論",
     "title": "1. 概要",
     "content": "相対性理論は光速度不変を基本原理とするアインシュタインによる理論で，それまでの物理学を根底から覆すようなものであった． また相対性理論は微分幾何学の分野をもとに成り立っていて，相互的に学習することで本質的な理解の助けになるはずである． このゼミではこれからの物理学の基礎となっていく相対性理論，特に特殊相対性理論の初歩を学ぶ． . ",
     "url": "/docs/theory_of_relativity/main/#1-%E6%A6%82%E8%A6%81",
     
     "relUrl": "/docs/theory_of_relativity/main/#1-概要"
-  },"260": {
+  },"259": {
     "doc": "相対論",
     "title": "2. 前提知識",
     "content": "学部1年の物理，数学 . ",
     "url": "/docs/theory_of_relativity/main/#2-%E5%89%8D%E6%8F%90%E7%9F%A5%E8%AD%98",
     
     "relUrl": "/docs/theory_of_relativity/main/#2-前提知識"
-  },"261": {
+  },"260": {
     "doc": "相対論",
     "title": "3. 計画",
     "content": "Landau &amp; Lifshitz “Classical Theory of Fields”をもとに進めていく． . | ミンコフスキー空間 | ローレンツ変換 | 4元ベクトル | (以降続く) | . ",
     "url": "/docs/theory_of_relativity/main/#3-%E8%A8%88%E7%94%BB",
     
     "relUrl": "/docs/theory_of_relativity/main/#3-計画"
-  },"262": {
+  },"261": {
     "doc": "相対論",
     "title": "4. 参考書",
     "content": "Landau &amp; Lifshitz “Classical Theory of Fields” ランダウ・リフシッツ 「場の古典論」 . ",
     "url": "/docs/theory_of_relativity/main/#4-%E5%8F%82%E8%80%83%E6%9B%B8",
     
     "relUrl": "/docs/theory_of_relativity/main/#4-参考書"
-  },"263": {
+  },"262": {
     "doc": "相対論",
     "title": "5. 進め方",
     "content": ". | 曜日/時限: 未定 | 教室: 未定 | . ",
     "url": "/docs/theory_of_relativity/main/#5-%E9%80%B2%E3%82%81%E6%96%B9",
     
     "relUrl": "/docs/theory_of_relativity/main/#5-進め方"
-  },"264": {
+  },"263": {
     "doc": "相対論",
     "title": "6. 関連ゼミ",
     "content": "解析力学 多様体 . ",
     "url": "/docs/theory_of_relativity/main/#6-%E9%96%A2%E9%80%A3%E3%82%BC%E3%83%9F",
     
     "relUrl": "/docs/theory_of_relativity/main/#6-関連ゼミ"
-  },"265": {
+  },"264": {
     "doc": "相対論",
     "title": "相対論",
     "content": " ",
     "url": "/docs/theory_of_relativity/main/",
     
     "relUrl": "/docs/theory_of_relativity/main/"
-  },"266": {
+  },"265": {
     "doc": "熱力学",
     "title": "熱力学",
     "content": "Chef : Yuto Masuda . ",
     "url": "/docs/thermo_dynamics/main/#%E7%86%B1%E5%8A%9B%E5%AD%A6",
     
     "relUrl": "/docs/thermo_dynamics/main/#熱力学"
-  },"267": {
+  },"266": {
     "doc": "熱力学",
     "title": "1. 概要",
     "content": "熱力学は巨視的な現象・性質を対象とする学問である．本ゼミでは清水明「熱力学の基礎」を用いて熱力学を学ぶ． 一般的な熱力学の教科書は示量変数$(U, V, N)$など，と示強変数$(T, p, \\mu)$などを用いて理論を展開するが，「熱力学の基礎」は示量変数のみを用いて理論を展開する． . ",
     "url": "/docs/thermo_dynamics/main/#1-%E6%A6%82%E8%A6%81",
     
     "relUrl": "/docs/thermo_dynamics/main/#1-概要"
-  },"268": {
+  },"267": {
     "doc": "熱力学",
     "title": "2. 前提知識",
     "content": "特になし． . ",
     "url": "/docs/thermo_dynamics/main/#2-%E5%89%8D%E6%8F%90%E7%9F%A5%E8%AD%98",
     
     "relUrl": "/docs/thermo_dynamics/main/#2-前提知識"
-  },"269": {
+  },"268": {
     "doc": "熱力学",
     "title": "3. 計画",
     "content": "清水明「熱力学の基礎」 . 第2章　｢要請｣を理解するための事項 . 第3章　熱力学の基本的要請 . 第4章　要請についての理解を深める . 第5章　エントロピーの数学的な性質 . 第6章　示強変数 . 第7章　仕事と熱――簡単な例 . 第8章　準静的過程における一般の仕事と熱 . を各コマ1章ずつ進める． なお，計画は柔軟に変更する． . ",
     "url": "/docs/thermo_dynamics/main/#3-%E8%A8%88%E7%94%BB",
     
     "relUrl": "/docs/thermo_dynamics/main/#3-計画"
-  },"270": {
+  },"269": {
     "doc": "熱力学",
     "title": "4. 参考書",
     "content": "清水明「熱力学の基礎 第2版 I」(東京大学出版会) . ",
     "url": "/docs/thermo_dynamics/main/#4-%E5%8F%82%E8%80%83%E6%9B%B8",
     
     "relUrl": "/docs/thermo_dynamics/main/#4-参考書"
-  },"271": {
+  },"270": {
     "doc": "熱力学",
     "title": "5. 進め方",
     "content": ". | 曜日/時限: 未定 | 教室: 未定 | . 基本的に対面で行う . ",
     "url": "/docs/thermo_dynamics/main/#5-%E9%80%B2%E3%82%81%E6%96%B9",
     
     "relUrl": "/docs/thermo_dynamics/main/#5-進め方"
-  },"272": {
+  },"271": {
     "doc": "熱力学",
     "title": "6. 関連ゼミ",
     "content": ". | 統計力学 | . ",
     "url": "/docs/thermo_dynamics/main/#6-%E9%96%A2%E9%80%A3%E3%82%BC%E3%83%9F",
     
     "relUrl": "/docs/thermo_dynamics/main/#6-関連ゼミ"
-  },"273": {
+  },"272": {
     "doc": "熱力学",
     "title": "熱力学",
     "content": " ",
     "url": "/docs/thermo_dynamics/main/",
     
     "relUrl": "/docs/thermo_dynamics/main/"
-  },"274": {
+  },"273": {
     "doc": "位相",
     "title": "位相",
     "content": "Chef : momoyuu . ",
     "url": "/docs/topology/main/#%E4%BD%8D%E7%9B%B8",
     
     "relUrl": "/docs/topology/main/#位相"
-  },"275": {
+  },"274": {
     "doc": "位相",
     "title": "1. 概要",
     "content": "位相空間とは，集合に開集合系という付加構造が備わったものである．集合に開集合系が定まることで元同士の近さをはかることができるようになり（$f$,点列$x_n\\to x$に対し$f$が連続であることと$f(x_n)$が$f(x)$に収束することが同値であったことを思い出されたい），それによって位相空間の間の連続写像が定義される．位相空間論は現代数学の基礎中の基礎であり，幾何，解析，代数のいずれにおいても姿を現す．また，位相空間論を学んでいくにつれて，いかに我々が先入観にとらわれて生活しているかが見え，日常生活においても視野を広げられるようになることだろう．（2231910） . ",
     "url": "/docs/topology/main/#1-%E6%A6%82%E8%A6%81",
     
     "relUrl": "/docs/topology/main/#1-概要"
-  },"276": {
+  },"275": {
     "doc": "位相",
     "title": "2. 前提知識",
     "content": "集合論ゼミで行う集合論の知識については知っているものとして進める．特に，集合と写像の操作に慣れていることが好ましい． . ",
     "url": "/docs/topology/main/#2-%E5%89%8D%E6%8F%90%E7%9F%A5%E8%AD%98",
     
     "relUrl": "/docs/topology/main/#2-前提知識"
-  },"277": {
+  },"276": {
     "doc": "位相",
     "title": "3. 計画",
     "content": ". | ユークリッド空間における開集合及び収束と連続写像 | 距離空間の定義とそこにおける開集合及び収束と連続写像 | 位相空間の定義と開集合及び近傍系(と収束) | 位相空間の部分集合と連続写像 | 可算公理 | 誘導される位相と積空間(と箱位相、コンパクト開位相) | 誘導される位相と直和空間・商空間(と商写像)、直和空間・商空間の普遍性と例 | 分離公理 | コンパクト性とチコノフの定理の紹介 | 連結成分、弧状連結成分 | 局所コンパクハウスドルフ空間 | 諸々の性質(分離公理と可算公理の関連性、距離空間との関係) | 位相空間における収束(ネットとフィルター) | パラコンパクト性 | 距離化可能性 | . ",
     "url": "/docs/topology/main/#3-%E8%A8%88%E7%94%BB",
     
     "relUrl": "/docs/topology/main/#3-計画"
-  },"278": {
+  },"277": {
     "doc": "位相",
     "title": "4. 参考書",
     "content": "主に， . | 梅原雅顕・一木俊助「これからの集合と位相」(裳華房) | . を用いる．また必要に応じて， . | 齋藤正彦「数学の基礎　集合・数。位相」(東京大学出版会) | 松坂和夫「集合・位相入門」(岩波書店) | 森田紀一「位相空間論」(岩波書店) | . などを参照する． . ",
     "url": "/docs/topology/main/#4-%E5%8F%82%E8%80%83%E6%9B%B8",
     
     "relUrl": "/docs/topology/main/#4-参考書"
-  },"279": {
+  },"278": {
     "doc": "位相",
     "title": "5. 進め方",
     "content": ". | 曜日/時限: 未定 | 教室: 未定 | . 基本的に対面で行う． . ",
     "url": "/docs/topology/main/#5-%E9%80%B2%E3%82%81%E6%96%B9",
     
     "relUrl": "/docs/topology/main/#5-進め方"
-  },"280": {
+  },"279": {
     "doc": "位相",
     "title": "6. 関連ゼミ",
     "content": " ",
     "url": "/docs/topology/main/#6-%E9%96%A2%E9%80%A3%E3%82%BC%E3%83%9F",
     
     "relUrl": "/docs/topology/main/#6-関連ゼミ"
-  },"281": {
+  },"280": {
     "doc": "位相",
     "title": "位相",
     "content": " ",
     "url": "/docs/topology/main/",
     
     "relUrl": "/docs/topology/main/"
+  },"281": {
+    "doc": "トレーニング",
+    "title": "トレーニング",
+    "content": "WIP . ",
+    "url": "/docs/training/main/",
+    
+    "relUrl": "/docs/training/main/"
   },"282": {
     "doc": "B1数学復習",
     "title": "このゼミについて",
@@ -2141,746 +2141,753 @@
     
     "relUrl": "/docs/functional_analysis/main/"
   },"306": {
-    "doc": "実解析",
-    "title": "実解析",
+    "doc": "CTF",
+    "title": "Capture The Flag",
     "content": "Chef : Luke . ",
-    "url": "/docs/real_analysis/main/",
+    "url": "/docs/capture_the_flag/main/#capture-the-flag",
     
-    "relUrl": "/docs/real_analysis/main/"
+    "relUrl": "/docs/capture_the_flag/main/#capture-the-flag"
   },"307": {
-    "doc": "実解析",
+    "doc": "CTF",
     "title": "1. 概要",
-    "content": "このゼミは少し小さなテーマではあるが，学部1年の微積の知識を生かして特殊函数の扱いを学ぶ． 特に複素函数を意識したべき級数について学ぶことで微積分からより進んだ解析分野への架け橋となることを目的とする． . ",
-    "url": "/docs/real_analysis/main/#1-%E6%A6%82%E8%A6%81",
+    "content": "Capture The Flagとは情報セキュリティの知識を用いてフラグという隠された情報を探し出す競技である． すなわち一言であればハッキング能力を競うものである． ハッキングにはOS，ネットワーク，プログラミング，暗号など広範なITの知識と技能が必要であり，CTFに挑戦することでそれらの能力を向上させることができる． このゼミでは初歩からCTFを通してこのような知識を学んでいく． . ",
+    "url": "/docs/capture_the_flag/main/#1-%E6%A6%82%E8%A6%81",
     
-    "relUrl": "/docs/real_analysis/main/#1-概要"
+    "relUrl": "/docs/capture_the_flag/main/#1-概要"
   },"308": {
-    "doc": "実解析",
+    "doc": "CTF",
     "title": "2. 前提知識",
-    "content": "学部1年の微積分 . ",
-    "url": "/docs/real_analysis/main/#2-%E5%89%8D%E6%8F%90%E7%9F%A5%E8%AD%98",
+    "content": "PCを用意すること．OSは問わない． . ",
+    "url": "/docs/capture_the_flag/main/#2-%E5%89%8D%E6%8F%90%E7%9F%A5%E8%AD%98",
     
-    "relUrl": "/docs/real_analysis/main/#2-前提知識"
+    "relUrl": "/docs/capture_the_flag/main/#2-前提知識"
   },"309": {
-    "doc": "実解析",
+    "doc": "CTF",
     "title": "3. 計画",
-    "content": "Rudin W. “Principles of Mathematical Analysis” をもとに進める． . | べき級数 | べき級数と指数関数，三角関数 | フーリエ級数 | ガンマ函数 これらの内容理解に加えて演習問題も行う． | . ",
-    "url": "/docs/real_analysis/main/#3-%E8%A8%88%E7%94%BB",
+    "content": "CpawCTFという初心者向けの練習サイトを中心に進めていく． 初回は環境構築になる予定である． . ",
+    "url": "/docs/capture_the_flag/main/#3-%E8%A8%88%E7%94%BB",
     
-    "relUrl": "/docs/real_analysis/main/#3-計画"
+    "relUrl": "/docs/capture_the_flag/main/#3-計画"
   },"310": {
-    "doc": "実解析",
+    "doc": "CTF",
     "title": "4. 参考書",
-    "content": "Walter. R “Principles of Mathematical Analysis” 杉浦光夫「解析入門1」(東京大学出版会) . ",
-    "url": "/docs/real_analysis/main/#4-%E5%8F%82%E8%80%83%E6%9B%B8",
+    "content": "基本的にない．もし本格的にやってみたければ以下がいいらしい． . 梅内翼など．「詳解セキュリティコンテスト　CTFで学ぶ脆弱性攻略の技術」（マイナビ出版） . ",
+    "url": "/docs/capture_the_flag/main/#4-%E5%8F%82%E8%80%83%E6%9B%B8",
     
-    "relUrl": "/docs/real_analysis/main/#4-参考書"
+    "relUrl": "/docs/capture_the_flag/main/#4-参考書"
   },"311": {
-    "doc": "実解析",
+    "doc": "CTF",
     "title": "5. 進め方",
     "content": ". | 曜日/時限: 未定 | 教室: 未定 | . ",
-    "url": "/docs/real_analysis/main/#5-%E9%80%B2%E3%82%81%E6%96%B9",
+    "url": "/docs/capture_the_flag/main/#5-%E9%80%B2%E3%82%81%E6%96%B9",
     
-    "relUrl": "/docs/real_analysis/main/#5-進め方"
+    "relUrl": "/docs/capture_the_flag/main/#5-進め方"
   },"312": {
-    "doc": "実解析",
+    "doc": "CTF",
     "title": "6. 関連ゼミ",
     "content": " ",
-    "url": "/docs/real_analysis/main/#6-%E9%96%A2%E9%80%A3%E3%82%BC%E3%83%9F",
+    "url": "/docs/capture_the_flag/main/#6-%E9%96%A2%E9%80%A3%E3%82%BC%E3%83%9F",
     
-    "relUrl": "/docs/real_analysis/main/#6-関連ゼミ"
+    "relUrl": "/docs/capture_the_flag/main/#6-関連ゼミ"
   },"313": {
+    "doc": "CTF",
+    "title": "CTF",
+    "content": " ",
+    "url": "/docs/capture_the_flag/main/",
+    
+    "relUrl": "/docs/capture_the_flag/main/"
+  },"314": {
     "doc": "流体力学",
     "title": "流体力学",
     "content": "Chef : Luke . ",
     "url": "/docs/fluid_mechanics/main/",
     
     "relUrl": "/docs/fluid_mechanics/main/"
-  },"314": {
+  },"315": {
     "doc": "流体力学",
     "title": "1. 概要",
     "content": "流体力学は気体，液体などの流体の動きや熱の伝わり方について考える物理の分野である． そのメカニズムを記述するNavier-Stokes方程式の解の性質においての問題は数学においてはミレニアム懸賞問題の一つである． このゼミでは流体力学の基礎を学ぶことを目的とする． . ",
     "url": "/docs/fluid_mechanics/main/#1-%E6%A6%82%E8%A6%81",
     
     "relUrl": "/docs/fluid_mechanics/main/#1-概要"
-  },"315": {
+  },"316": {
     "doc": "流体力学",
     "title": "2. 前提知識",
     "content": "学部1年の物理，数学 . ",
     "url": "/docs/fluid_mechanics/main/#2-%E5%89%8D%E6%8F%90%E7%9F%A5%E8%AD%98",
     
     "relUrl": "/docs/fluid_mechanics/main/#2-前提知識"
-  },"316": {
+  },"317": {
     "doc": "流体力学",
     "title": "3. 計画",
     "content": "未定 . ",
     "url": "/docs/fluid_mechanics/main/#3-%E8%A8%88%E7%94%BB",
     
     "relUrl": "/docs/fluid_mechanics/main/#3-計画"
-  },"317": {
+  },"318": {
     "doc": "流体力学",
     "title": "4. 参考書",
     "content": "Landau &amp; Lifshitz “Fluid Mechanics” 今井「流体力学」 . ",
     "url": "/docs/fluid_mechanics/main/#4-%E5%8F%82%E8%80%83%E6%9B%B8",
     
     "relUrl": "/docs/fluid_mechanics/main/#4-参考書"
-  },"318": {
+  },"319": {
     "doc": "流体力学",
     "title": "5. 進め方",
     "content": ". | 曜日/時限: 未定 | 教室: 未定 | . ",
     "url": "/docs/fluid_mechanics/main/#5-%E9%80%B2%E3%82%81%E6%96%B9",
     
     "relUrl": "/docs/fluid_mechanics/main/#5-進め方"
-  },"319": {
+  },"320": {
     "doc": "流体力学",
     "title": "6. 関連ゼミ",
     "content": " ",
     "url": "/docs/fluid_mechanics/main/#6-%E9%96%A2%E9%80%A3%E3%82%BC%E3%83%9F",
     
     "relUrl": "/docs/fluid_mechanics/main/#6-関連ゼミ"
-  },"320": {
+  },"321": {
     "doc": "複素解析",
     "title": "複素解析",
     "content": "Chef : momoyuu . ",
     "url": "/docs/complex_analysis/main/",
     
     "relUrl": "/docs/complex_analysis/main/"
-  },"321": {
+  },"322": {
     "doc": "複素解析",
     "title": "1. 概要",
     "content": "本ゼミでは，一から複素解析を学ぶことを目的とする． . ",
     "url": "/docs/complex_analysis/main/#1-%E6%A6%82%E8%A6%81",
     
     "relUrl": "/docs/complex_analysis/main/#1-概要"
-  },"322": {
+  },"323": {
     "doc": "複素解析",
     "title": "2. 前提知識",
     "content": "初等的な微積分の知識は想定する． . ",
     "url": "/docs/complex_analysis/main/#2-%E5%89%8D%E6%8F%90%E7%9F%A5%E8%AD%98",
     
     "relUrl": "/docs/complex_analysis/main/#2-前提知識"
-  },"323": {
+  },"324": {
     "doc": "複素解析",
     "title": "3. 計画",
     "content": "参加者で相談して決定する． . ",
     "url": "/docs/complex_analysis/main/#3-%E8%A8%88%E7%94%BB",
     
     "relUrl": "/docs/complex_analysis/main/#3-計画"
-  },"324": {
+  },"325": {
     "doc": "複素解析",
     "title": "4. 参考書",
     "content": "参加者で相談して決定する． . ",
     "url": "/docs/complex_analysis/main/#4-%E5%8F%82%E8%80%83%E6%9B%B8",
     
     "relUrl": "/docs/complex_analysis/main/#4-参考書"
-  },"325": {
+  },"326": {
     "doc": "複素解析",
     "title": "5. 進め方",
     "content": ". | 曜日/時限: 未定 | 教室: 未定 | . 基本的に対面で行う． . ",
     "url": "/docs/complex_analysis/main/#5-%E9%80%B2%E3%82%81%E6%96%B9",
     
     "relUrl": "/docs/complex_analysis/main/#5-進め方"
-  },"326": {
+  },"327": {
     "doc": "複素解析",
     "title": "6. 関連ゼミ",
     "content": " ",
     "url": "/docs/complex_analysis/main/#6-%E9%96%A2%E9%80%A3%E3%82%BC%E3%83%9F",
     
     "relUrl": "/docs/complex_analysis/main/#6-関連ゼミ"
-  },"327": {
+  },"328": {
     "doc": "写真",
     "title": "写真",
     "content": "Chef : harry_arbrebleu . ",
     "url": "/docs/photography/main/",
     
     "relUrl": "/docs/photography/main/"
-  },"328": {
+  },"329": {
     "doc": "写真",
     "title": "1. 概要",
     "content": "Jakobsonの6機能図式を背景に芸術を読解すれば，自己の内部言語の文法の探索を芸術の営みと定義できる． 芸術とは，言語の機能のうち，＜受け手＞が存在しないものである． つまり，自己の内部言語を試行錯誤を繰り返しながら探索する活動の過程で生まれるものが芸術作品である． . 今日では，Instagramをはじめとするソーシャルメディアの発達と，iPhoneなどの高性能のカメラを備えたスマートフォンの普及により， インターネット上で様々な写真を目にするだろう， それは，以前は一部の芸術家の表現技法に過ぎなかった「写真」が市民権を獲得したことを意味するだけでなく， 写真は常に衆人の監視下に置かれ解釈され続けられるようになったことをも意味する． . さて，芸術としての「写真」を考えてみよう． 芸術作品は常に批評に晒されることは世の常であるが，作者が批評家に迎合して作品制作を行っていたとしたら， 果たして，それは芸術作品といえるのだろうか？ インターネット上に氾濫している数多の写真は，匿名であったり，実名であったりするものの，確かに存在する＜受け手＞を想定してはいないだろうか？ その写真は，芸術としての側面を失い，自然言語よりも不便で直観的に＜メッセージ＞を伝達する手段に堕ちてしまってはいないだろうか？ . 本ゼミの究極的な目標は，様々な理由により，大衆のコミュニケーションツールに没落しかけた「写真」を， 芸術の営みとして用いようとするレジスタンスの活動拠点となることである． 世界をシャッタ1つで分節化する「写真」は容易に試行錯誤ができるため，他の芸術表現を製作するのに比べて時間がかからない． 例えば「音楽」のように1曲を製作するのにかかる時間や，「小説」を一編書き上げるのにかかる時間に比べれば， 短時間で作品を作り上げることが出来る．この性質を活用して，毎回のゼミでは，1つ前のゼミで定めたお題に沿って製作した作品を参加者同士で批評を行ったあとに，毎回の担当者が，表現技法について解説する． . ",
     "url": "/docs/photography/main/#1-%E6%A6%82%E8%A6%81",
     
     "relUrl": "/docs/photography/main/#1-概要"
-  },"329": {
+  },"330": {
     "doc": "写真",
     "title": "2. 前提知識",
     "content": "デジタルカメラを持っていることが望ましい． 機種は問わないが，スマートフォンよりもデジタルカメラを用いることを推奨する． なお，SFCメディアセンターでSFC生は3泊4日， SFC生以外は当日のみ，カメラとレンズを借りることが出来る． . ",
     "url": "/docs/photography/main/#2-%E5%89%8D%E6%8F%90%E7%9F%A5%E8%AD%98",
     
     "relUrl": "/docs/photography/main/#2-前提知識"
-  },"330": {
+  },"331": {
     "doc": "写真",
     "title": "3. 計画",
     "content": "春休み全体で7回程度の予定である． 各回の暫定的なテーマは以下の通り． . | 構図について(宿題: 紹介した構図のルールを用いた写真) | 前回の宿題の批評，絞り・シャッタスピード・ISO感度について(宿題: 絞り・シャッタスピード・ISO感度について工夫した写真) | 前回の宿題の批評，光について(宿題: 午後5時から翌午前7時までに撮影した写真) | 前回の宿題の批評，色について(宿題: 色について現像で工夫した写真) | 前回の宿題の批評，生き物の写真について(宿題: 人か動物の写真) | 前回の宿題の批評，風景の写真について(宿題: 日常の風景の写真) | 前回の宿題の批評，総括，(宿題: 非日常の写真) | . 各回の宿題は参加者の了承を得たうえで，ゼミのホームページに掲載する予定である． . ",
     "url": "/docs/photography/main/#3-%E8%A8%88%E7%94%BB",
     
     "relUrl": "/docs/photography/main/#3-計画"
-  },"331": {
+  },"332": {
     "doc": "写真",
     "title": "4. 参考書",
     "content": "特に指定しないが， . | Joel Satore, Heather Perry， プロの撮り方果完全マスター ベーシック，日経ナショナルジオグラフィック社 | 岡島和幸，写真総合，株式会社インプレス | Bryan Peterson，プロの撮り方 構図を極める，日経ナショナルジオグラフィック社 | Bryan Peterson，プロの撮り方 露出を極める，日経ナショナルジオグラフィック社 | Bryan Peterson，プロの撮り方 実践の露出，日経ナショナルジオグラフィック社 | Bryan Peterson，プロの撮り方 シャッター速度，日経ナショナルジオグラフィック社 | Bryan Peterson，プロの撮り方 想像力を極める，日経ナショナルジオグラフィック社 | Richard Garvey-Willams，プロの撮り方 構図の法則，日経ナショナルジオグラフィック社 | . は参考になる．また，写真の思想的解説として， . | Susan Sontag，写真論，晶文社 | . を挙げておく． . ",
     "url": "/docs/photography/main/#4-%E5%8F%82%E8%80%83%E6%9B%B8",
     
     "relUrl": "/docs/photography/main/#4-参考書"
-  },"332": {
+  },"333": {
     "doc": "写真",
     "title": "5. 進め方",
     "content": ". | 曜日/時限: 未定 | 教室: 世界 | . ",
     "url": "/docs/photography/main/#5-%E9%80%B2%E3%82%81%E6%96%B9",
     
     "relUrl": "/docs/photography/main/#5-進め方"
-  },"333": {
+  },"334": {
     "doc": "写真",
     "title": "6. 関連ゼミ",
     "content": " ",
     "url": "/docs/photography/main/#6-%E9%96%A2%E9%80%A3%E3%82%BC%E3%83%9F",
     
     "relUrl": "/docs/photography/main/#6-関連ゼミ"
-  },"334": {
+  },"335": {
     "doc": "空気力学",
     "title": "空気力学",
     "content": "Chef : Kakeru SUGITA . ",
     "url": "/docs/aerodyanamics/main/",
     
     "relUrl": "/docs/aerodyanamics/main/"
-  },"335": {
+  },"336": {
     "doc": "空気力学",
     "title": "1. 概要",
     "content": "残念ながら慶應義塾大学理工学部には航空宇宙工学を学べる機会が多くない．航空宇宙工学には「空気力学」「飛行力学」「構造力学」「推進工学」等の学問分野がある．当ゼミはそのうちの一つである空気力学の入門について扱う．空気力学は大きく「非粘性・非圧縮流体力学」「粘性流体力学」「圧縮性流体力学」に分けられる．当ゼミでは，非粘性・非圧縮流体力学における知識を習得することを目的としている． . ",
     "url": "/docs/aerodyanamics/main/#1-%E6%A6%82%E8%A6%81",
     
     "relUrl": "/docs/aerodyanamics/main/#1-概要"
-  },"336": {
+  },"337": {
     "doc": "空気力学",
     "title": "2. 前提知識",
     "content": "特に必要としないが，大学1年次の微分積分，物理A，物理Bを履修していることが望ましい． . ",
     "url": "/docs/aerodyanamics/main/#2-%E5%89%8D%E6%8F%90%E7%9F%A5%E8%AD%98",
     
     "relUrl": "/docs/aerodyanamics/main/#2-前提知識"
-  },"337": {
+  },"338": {
     "doc": "空気力学",
     "title": "3. 計画",
     "content": ". | 空気力学とは，空気力学の基本原理 | 粘性流れ，圧縮性流れ | 流体力学の基礎方程式， | 非粘性・非圧縮流れ | 非圧縮性・非回転流れ，円柱まわりの流れ | 物体表面に湧き出し分布を与えた流れ，非圧縮性・軸対称流れ | 翼型の空気力学 | 3次元翼の空気力学 | . ",
     "url": "/docs/aerodyanamics/main/#3-%E8%A8%88%E7%94%BB",
     
     "relUrl": "/docs/aerodyanamics/main/#3-計画"
-  },"338": {
+  },"339": {
     "doc": "空気力学",
     "title": "4. 参考書",
     "content": "李家賢一, 新井隆景, 浅井圭介. 空気力学入門. 東京, 丸善出版, 2016. ",
     "url": "/docs/aerodyanamics/main/#4-%E5%8F%82%E8%80%83%E6%9B%B8",
     
     "relUrl": "/docs/aerodyanamics/main/#4-参考書"
-  },"339": {
+  },"340": {
     "doc": "空気力学",
     "title": "5. 進め方",
     "content": ". | 曜日/時限: 未定（基本的に週1回，希望があれば2回以上も行う．） | 教室: 未定 | . 基本的に対面で行い，参加者による発表の形式で進行する . ",
     "url": "/docs/aerodyanamics/main/#5-%E9%80%B2%E3%82%81%E6%96%B9",
     
     "relUrl": "/docs/aerodyanamics/main/#5-進め方"
-  },"340": {
+  },"341": {
     "doc": "空気力学",
     "title": "6. 関連ゼミ",
     "content": "流体力学 . ",
     "url": "/docs/aerodyanamics/main/#6-%E9%96%A2%E9%80%A3%E3%82%BC%E3%83%9F",
     
     "relUrl": "/docs/aerodyanamics/main/#6-関連ゼミ"
-  },"341": {
+  },"342": {
     "doc": "Cコンパイラ作成",
     "title": "Cコンパイラ作成",
     "content": "Chef : Coordonnées Cartésiennes . ",
     "url": "/docs/compiler/main/",
     
     "relUrl": "/docs/compiler/main/"
-  },"342": {
+  },"343": {
     "doc": "Cコンパイラ作成",
     "title": "1. 概要",
     "content": "オリジナルのCコンパイラを作成することを通じてコンピュータの動く仕組みやプログラミング言語の仕様に関する理解を深める． また規模の大きなプログラム開発における動作テストやバージョン管理についても学ぶ． . ",
     "url": "/docs/compiler/main/#1-%E6%A6%82%E8%A6%81",
     
     "relUrl": "/docs/compiler/main/#1-概要"
-  },"343": {
+  },"344": {
     "doc": "Cコンパイラ作成",
     "title": "2. 前提知識",
     "content": ". | パソコンを持ってこれる | ブラインドタッチができる(あまりに遅すぎなければ完全ブラインドじゃなくても大丈夫) | CPUが何のことかわかる | . ",
     "url": "/docs/compiler/main/#2-%E5%89%8D%E6%8F%90%E7%9F%A5%E8%AD%98",
     
     "relUrl": "/docs/compiler/main/#2-前提知識"
-  },"344": {
+  },"345": {
     "doc": "Cコンパイラ作成",
     "title": "3. 計画",
     "content": ". | 環境構築，メモリ，アセンブリ | 電卓レベルの言語の作成 | . ",
     "url": "/docs/compiler/main/#3-%E8%A8%88%E7%94%BB",
     
     "relUrl": "/docs/compiler/main/#3-計画"
-  },"345": {
+  },"346": {
     "doc": "Cコンパイラ作成",
     "title": "4. 参考書",
     "content": "植山 類「低レイヤを知りたい人のためのCコンパイラ作成入門」 . ",
     "url": "/docs/compiler/main/#4-%E5%8F%82%E8%80%83%E6%9B%B8",
     
     "relUrl": "/docs/compiler/main/#4-参考書"
-  },"346": {
+  },"347": {
     "doc": "Cコンパイラ作成",
     "title": "5. 進め方",
     "content": ". | 曜日/時限: 未定 | 教室: 未定 | . 基本的に対面で行う． . ",
     "url": "/docs/compiler/main/#5-%E9%80%B2%E3%82%81%E6%96%B9",
     
     "relUrl": "/docs/compiler/main/#5-進め方"
-  },"347": {
+  },"348": {
     "doc": "Cコンパイラ作成",
     "title": "6. 関連ゼミ",
     "content": " ",
     "url": "/docs/compiler/main/#6-%E9%96%A2%E9%80%A3%E3%82%BC%E3%83%9F",
     
     "relUrl": "/docs/compiler/main/#6-関連ゼミ"
-  },"348": {
+  },"349": {
     "doc": "Web開発",
     "title": "Web開発",
     "content": "Chef : Luke . ",
     "url": "/docs/web_development/main/",
     
     "relUrl": "/docs/web_development/main/"
-  },"349": {
+  },"350": {
     "doc": "Web開発",
     "title": "1. 概要",
     "content": "Web開発とは，ブラウザ上で動くWebサイトを構築することである． このゼミではWeb開発の勉強を通して，普段我々が見ているサイトがどのような仕組みで動いているかを学ぶことである． Goというプログラミング言語とそのWebフレームワークを用いてバックエンドを構築し，また簡単なフロントエンドの技術も学ぶことで最低限動作するWebサイトを作る． . ",
     "url": "/docs/web_development/main/#1-%E6%A6%82%E8%A6%81",
     
     "relUrl": "/docs/web_development/main/#1-概要"
-  },"350": {
+  },"351": {
     "doc": "Web開発",
     "title": "2. 前提知識",
     "content": "特になし． PCが必要． . ",
     "url": "/docs/web_development/main/#2-%E5%89%8D%E6%8F%90%E7%9F%A5%E8%AD%98",
     
     "relUrl": "/docs/web_development/main/#2-前提知識"
-  },"351": {
+  },"352": {
     "doc": "Web開発",
     "title": "3. 計画",
     "content": "実際に何かのサイトを作りながら学ぶ． 初回は主に環境構築となる． . ",
     "url": "/docs/web_development/main/#3-%E8%A8%88%E7%94%BB",
     
     "relUrl": "/docs/web_development/main/#3-計画"
-  },"352": {
+  },"353": {
     "doc": "Web開発",
     "title": "4. 参考書",
     "content": " ",
     "url": "/docs/web_development/main/#4-%E5%8F%82%E8%80%83%E6%9B%B8",
     
     "relUrl": "/docs/web_development/main/#4-参考書"
-  },"353": {
+  },"354": {
     "doc": "Web開発",
     "title": "5. 進め方",
     "content": ". | 曜日/時限: 未定 | 教室: 未定 | . ",
     "url": "/docs/web_development/main/#5-%E9%80%B2%E3%82%81%E6%96%B9",
     
     "relUrl": "/docs/web_development/main/#5-進め方"
-  },"354": {
+  },"355": {
     "doc": "Web開発",
     "title": "6. 関連ゼミ",
     "content": " ",
     "url": "/docs/web_development/main/#6-%E9%96%A2%E9%80%A3%E3%82%BC%E3%83%9F",
     
     "relUrl": "/docs/web_development/main/#6-関連ゼミ"
-  },"355": {
-    "doc": "量子論・量子力学",
-    "title": "量子論・量子力学",
-    "content": "Chef : harry_arbrebleu . ",
-    "url": "/docs/quantum_mechanics/main/",
-    
-    "relUrl": "/docs/quantum_mechanics/main/"
   },"356": {
-    "doc": "量子論・量子力学",
-    "title": "1. 概要",
-    "content": "古典論とは一線を画する量子論について学びを深める．実在論を元にした古典論では . | 物理量は任意の時刻で確定値を持つ． | 測定とは物理量の値を知ることである． | 物理状態は物理量の値全てである． | 時間発展は物理量の値の時間変化である | . といった仮定のもと成立していた．しかし，そのような期待は量子論では成立せず，新たな理論体系が要請された． このようにして作られた理論が量子論である． . ",
-    "url": "/docs/quantum_mechanics/main/#1-%E6%A6%82%E8%A6%81",
+    "doc": "実解析",
+    "title": "実解析",
+    "content": "Chef : Luke . ",
+    "url": "/docs/real_analysis/main/",
     
-    "relUrl": "/docs/quantum_mechanics/main/#1-概要"
+    "relUrl": "/docs/real_analysis/main/"
   },"357": {
-    "doc": "量子論・量子力学",
-    "title": "2. 前提知識",
-    "content": "本ゼミではまず，Schrödinger描像を学習する．それにあたり，線型代数の固有値・固有ベクトルの概念が必須となる． また，解析力学の知識があると正準量子化について学習しやすい． . ",
-    "url": "/docs/quantum_mechanics/main/#2-%E5%89%8D%E6%8F%90%E7%9F%A5%E8%AD%98",
+    "doc": "実解析",
+    "title": "1. 概要",
+    "content": "このゼミは少し小さなテーマではあるが，学部1年の微積の知識を生かして特殊函数の扱いを学ぶ． 特に複素函数を意識したべき級数について学ぶことで微積分からより進んだ解析分野への架け橋となることを目的とする． . ",
+    "url": "/docs/real_analysis/main/#1-%E6%A6%82%E8%A6%81",
     
-    "relUrl": "/docs/quantum_mechanics/main/#2-前提知識"
+    "relUrl": "/docs/real_analysis/main/#1-概要"
   },"358": {
-    "doc": "量子論・量子力学",
-    "title": "3. 計画",
-    "content": "参考書に従って進める． . | 第1章: 「古典力学の破綻」，第2章: 「基本的な枠組み」 | 第3章: 「閉じた有限自由度系の純粋状態の量子論」(1節: 「基本的な考え方」から8節: 「ブラとケット」まで) | 第3章: 「閉じた有限自由度系の純粋状態の量子論」(9節: 「射影演算子」から16節: 「連続固有値に関する数学的注意」まで) | 第3章: 「閉じた有限自由度系の純粋状態の量子論」(17節: 「ボルンの確率規則―連続固有値の場合」から26節: 「射影仮説について」まで) | 第4章: 「有限自由度系の正準量子化」(1節: 「古典解析力学」から3節: 「正準交換関係のシュレディンガー表現」まで) | 第4章: 「有限自由度系の正準量子化」(4節: 「フォン・ノイマンの一意性定理」から「無限次元ヒルベルト空間の注意」まで) | 第5章: 「1次元空間を運動する粒子の量子論」(1節: 「1次元空間を運動する粒子のシュレディンガー方程式」から9節: 「重ね合わせの例」まで) | 第5章: 「1次元空間を運動する粒子の量子論」(10節: 「不確定原理のよる基底準位の見積もり」から16節: 「調和振動子」まで) | 第6章: 「時間発展について」，第7章: 「場の量子論―場の量子論入門」 | 第8章: 「ベルの不等式」，第9章: 「基本変数による記述のまとめ」 | . 進捗によっては変更する可能性がある．全体で10回から15回に収まる予定である． . ",
-    "url": "/docs/quantum_mechanics/main/#3-%E8%A8%88%E7%94%BB",
+    "doc": "実解析",
+    "title": "2. 前提知識",
+    "content": "学部1年の微積分 . ",
+    "url": "/docs/real_analysis/main/#2-%E5%89%8D%E6%8F%90%E7%9F%A5%E8%AD%98",
     
-    "relUrl": "/docs/quantum_mechanics/main/#3-計画"
+    "relUrl": "/docs/real_analysis/main/#2-前提知識"
   },"359": {
-    "doc": "量子論・量子力学",
-    "title": "4. 参考書",
-    "content": "主に以下の本を用いる． . | 清水明，新版 量子論の基礎，サイエンス社 | . また，進んだ参考書として . | J. J. サクライ，現代の量子力学上，吉岡書店 | . を挙げておく． . ",
-    "url": "/docs/quantum_mechanics/main/#4-%E5%8F%82%E8%80%83%E6%9B%B8",
+    "doc": "実解析",
+    "title": "3. 計画",
+    "content": "Rudin W. “Principles of Mathematical Analysis” をもとに進める． . | べき級数 | べき級数と指数関数，三角関数 | フーリエ級数 | ガンマ函数 これらの内容理解に加えて演習問題も行う． | . ",
+    "url": "/docs/real_analysis/main/#3-%E8%A8%88%E7%94%BB",
     
-    "relUrl": "/docs/quantum_mechanics/main/#4-参考書"
+    "relUrl": "/docs/real_analysis/main/#3-計画"
   },"360": {
-    "doc": "量子論・量子力学",
-    "title": "5. 進め方",
-    "content": ". | 曜日/時限: 未定 | 教室: 未定 | . 参考書の演習問題はゼミ前に各自チャレンジされたい． . ",
-    "url": "/docs/quantum_mechanics/main/#5-%E9%80%B2%E3%82%81%E6%96%B9",
+    "doc": "実解析",
+    "title": "4. 参考書",
+    "content": "Walter. R “Principles of Mathematical Analysis” 杉浦光夫「解析入門1」(東京大学出版会) . ",
+    "url": "/docs/real_analysis/main/#4-%E5%8F%82%E8%80%83%E6%9B%B8",
     
-    "relUrl": "/docs/quantum_mechanics/main/#5-進め方"
+    "relUrl": "/docs/real_analysis/main/#4-参考書"
   },"361": {
-    "doc": "量子論・量子力学",
-    "title": "6. 関連ゼミ",
-    "content": ". | 線型代数 | 解析力学 | . ",
-    "url": "/docs/quantum_mechanics/main/#6-%E9%96%A2%E9%80%A3%E3%82%BC%E3%83%9F",
+    "doc": "実解析",
+    "title": "5. 進め方",
+    "content": ". | 曜日/時限: 未定 | 教室: 未定 | . ",
+    "url": "/docs/real_analysis/main/#5-%E9%80%B2%E3%82%81%E6%96%B9",
     
-    "relUrl": "/docs/quantum_mechanics/main/#6-関連ゼミ"
+    "relUrl": "/docs/real_analysis/main/#5-進め方"
   },"362": {
+    "doc": "実解析",
+    "title": "6. 関連ゼミ",
+    "content": " ",
+    "url": "/docs/real_analysis/main/#6-%E9%96%A2%E9%80%A3%E3%82%BC%E3%83%9F",
+    
+    "relUrl": "/docs/real_analysis/main/#6-関連ゼミ"
+  },"363": {
     "doc": "Minimal layout child page",
     "title": "Minimal layout child page",
     "content": "This is a child page that uses the same minimal layout as its parent page. ",
     "url": "/docs/layout/minimal/minimal-child/",
     
     "relUrl": "/docs/layout/minimal/minimal-child/"
-  },"363": {
+  },"364": {
     "doc": "自主ゼミリスト",
     "title": "自主ゼミリスト",
     "content": "Return to main website. This page demonstrates the packaged minimal layout, which does not render the sidebar or header. It can be used for standalone pages. It is also an example of using the new modular site components to define custom layouts; see “Custom layouts and includes” in the customization docs for more information. ",
     "url": "/docs/minimal-test/",
     
     "relUrl": "/docs/minimal-test/"
-  },"364": {
+  },"365": {
     "doc": "A minimal layout page",
     "title": "A minimal layout page",
     "content": "This page illustrates the built-in layout minimal. One of its child pages also uses the minimal layout; the other child pages uses the default layout. ",
     "url": "/docs/layout/minimal/minimal/",
     
     "relUrl": "/docs/layout/minimal/minimal/"
-  },"365": {
+  },"366": {
     "doc": "Navigation Structure",
     "title": "Navigation Structure",
     "content": ". | Main navigation | Ordering pages | Excluding pages | Pages with children . | Child pages | Ordering child pages | Auto-generating Table of Contents | Children with children | . | Grouping pages with collections | Auxiliary Links | External Navigation Links . | Opening external links in a new tab | . | In-page navigation with Table of Contents . | Collapsible Table of Contents | . | . ",
     "url": "/docs/navigation-structure/",
     
     "relUrl": "/docs/navigation-structure/"
-  },"366": {
+  },"367": {
     "doc": "Navigation Structure",
     "title": "Main navigation",
     "content": "The main navigation for your Just the Docs site is on the left side of the page on large screens and on the top (behind a tap) on small screens. The main navigation can be structured to accommodate a multi-level menu system (pages with children and grandchildren). By default, all pages will appear as top level pages in the main nav unless a parent page is defined (see Pages with Children). ",
     "url": "/docs/navigation-structure/#main-navigation",
     
     "relUrl": "/docs/navigation-structure/#main-navigation"
-  },"367": {
+  },"368": {
     "doc": "Navigation Structure",
     "title": "Ordering pages",
     "content": "To specify a page order, you can use the nav_order parameter in your pages’ YAML front matter. Example (ordering pages) . --- layout: default title: Customization nav_order: 4 --- . The parameter values determine the order of the top-level pages, and of child pages with the same parent. You can reuse the same parameter values (e.g., integers starting from 1) for the child pages of different parents. The parameter values can be numbers (integers, floats) and/or strings. Pages with numerical nav_order parameters always come before those with string nav_order parameters. When you omit nav_order parameters, they default to the titles of the pages. If you want to make the page order independent of the page titles, you can set explicit nav_order parameters on all pages. All pages with explicit nav_order parameters come before all pages ordered by their title values. By default, all Capital letters come before all lowercase letters; you can add nav_sort: case_insensitive in the configuration file to ignore the case. Enclosing strings in (single or double) quotation marks is optional. Numeric values are not enclosed in quotation marks, e.g., 42, -1.0; numbers in quotation marks are lexicographically ordered, so \"10\" comes before \"2\", for example. ",
     "url": "/docs/navigation-structure/#ordering-pages",
     
     "relUrl": "/docs/navigation-structure/#ordering-pages"
-  },"368": {
+  },"369": {
     "doc": "Navigation Structure",
     "title": "Excluding pages",
     "content": "For specific pages that you do not wish to include in the main navigation, e.g. a 404 page or a landing page, use the nav_exclude: true parameter in the YAML front matter for that page. Example (excluding pages) . --- layout: default title: 404 nav_exclude: true --- . The nav_exclude parameter does not affect the auto-generating list of child pages, which you can use to access pages excluded from the main navigation. Pages with no title are automatically excluded from the main navigation. ",
     "url": "/docs/navigation-structure/#excluding-pages",
     
     "relUrl": "/docs/navigation-structure/#excluding-pages"
-  },"369": {
+  },"370": {
     "doc": "Navigation Structure",
     "title": "Pages with children",
     "content": "Sometimes you will want to create a page with many children (a section). First, it is recommended that you keep pages that are related in a directory together… For example, in these docs, we keep all of the written documentation in the ./docs directory and each of the sections in subdirectories like ./docs/ui-components and ./docs/utilities. This gives us an organization like: . +-- .. |-- (Jekyll files) |-- docs |-- ui-components | |-- index.md (parent page) | |-- buttons.md | |-- code.md | |-- labels.md | |-- tables.md | +-- typography.md | |-- utilities | |-- index.md (parent page) | |-- color.md | |-- layout.md | |-- responsive-modifiers.md | +-- typography.md | |-- (other md files, pages with no children) | +-- .. |-- (Jekyll files) +-- .. On the parent pages, add this YAML front matter parameter: . | has_children: true (tells us that this is a parent page) | . Example (parent pages) . --- layout: default title: UI Components nav_order: 2 has_children: true --- . Here we’re setting up the UI Components landing page that is available at /docs/ui-components, which has children and is ordered second in the main nav. Child pages . On child pages, simply set the parent: YAML front matter to whatever the parent’s page title is and set a nav order (this number is now scoped within the section). Example (child pages) . --- layout: default title: Buttons parent: UI Components nav_order: 2 --- . The Buttons page appears as a child of UI Components and appears second in the UI Components section. Ordering child pages . New (v0.4.0) . You can optionally add the following to the YAML front matter to reverse the default sort order of child pages: . | child_nav_order: reversed | . Example (ordering child pages) . --- layout: default title: Reversed Child Pages child_nav_order: reversed --- . Auto-generating Table of Contents . By default, all pages with children will automatically append a Table of Contents which lists the child pages after the parent page’s content. To disable this auto Table of Contents, set has_toc: false in the parent page’s YAML front matter. Example (auto-generating Table of Contents) . --- layout: default title: UI Components nav_order: 2 has_children: true has_toc: false --- . Children with children . Child pages can also have children (grandchildren). This is achieved by using a similar pattern on the child and grandchild pages. | Add the has_children attribute to the child | Add the parent and grand_parent attribute to the grandchild | . Example (children within children) . --- layout: default title: Buttons parent: UI Components nav_order: 2 has_children: true --- . --- layout: default title: Buttons Child Page parent: Buttons grand_parent: UI Components nav_order: 1 --- . This would create the following navigation structure: . +-- .. |-- UI Components |-- .. | |-- Buttons | |-- Button Child Page | |-- .. | +-- .. Currently, the navigation structure is limited to 3 levels: grandchild pages cannot themselves have child pages. ",
     "url": "/docs/navigation-structure/#pages-with-children",
     
     "relUrl": "/docs/navigation-structure/#pages-with-children"
-  },"370": {
+  },"371": {
     "doc": "Navigation Structure",
     "title": "Grouping pages with collections",
     "content": "Pages can also be grouped together by using Jekyll’s and Just the Docs’s collections feature. In contrast to using pages with children, pages grouped by collection are grouped by a shared header (the name of the collection) instead of a page. The nav_fold configuration option works for collection-grouped pages. For more information, please refer to the collections documentation. Example (grouping by collection) . The following example sets up two collections, collection-one and collection-two: . | any document placed within _collection-1/ will be grouped under the Collection One header by default. Since nav_fold is set to true, the pages will be folded by default. | any document placed within _collection-2/ will be grouped under the Collection Two header by default. Since nav_fold is set to false, the pages will be expanded by default. | . _config.yml: collections: collection-one: permalink: \"/:collection/:path/\" output: true collection-two: permalink: \"/:collection/:path/\" output: true just_the_docs: collections: collection-one: name: Collection One nav_fold: true collection-two: name: Collection Two nav_fold: false . ",
     "url": "/docs/navigation-structure/#grouping-pages-with-collections",
     
     "relUrl": "/docs/navigation-structure/#grouping-pages-with-collections"
-  },"371": {
+  },"372": {
     "doc": "Navigation Structure",
     "title": "Auxiliary Links",
     "content": "To add auxiliary links to your site (in the upper right on all pages), add it to the aux_links configuration option in your site’s _config.yml file. Example (auxiliary links) . # Aux links for the upper right navigation aux_links: \"Just the Docs on GitHub\": - \"//github.com/just-the-docs/just-the-docs\" . ",
     "url": "/docs/navigation-structure/#auxiliary-links",
     
     "relUrl": "/docs/navigation-structure/#auxiliary-links"
-  },"372": {
+  },"373": {
     "doc": "Navigation Structure",
     "title": "External Navigation Links",
     "content": "New (v0.4.0) . To add external links to the navigation, add them to the nav_external_links configuration option in your site’s _config.yml file. External links will appear in the navigation after the links to ordinary pages, but before any collections. Example (external navigation links) . # External navigation links nav_external_links: - title: Just the Docs on GitHub url: https://github.com/just-the-docs/just-the-docs hide_icon: false # set to true to hide the external link icon - defaults to false opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false . Opening external links in a new tab . New (unreleased) . The external links are decorated by an icon, which distinguishes them from internal links. You can suppress the icon by setting hide_icon: true. By default, external links are not opened in a new tab. However, this can be enabled by: . | setting opens_in_new_tab: true in the link’s configuration object | setting the configuration option nav_external_links_new_tab: true in _config.yml | . When they conflict, opens_in_new_tab takes precedence. ",
     "url": "/docs/navigation-structure/#external-navigation-links",
     
     "relUrl": "/docs/navigation-structure/#external-navigation-links"
-  },"373": {
+  },"374": {
     "doc": "Navigation Structure",
     "title": "In-page navigation with Table of Contents",
     "content": "To generate a Table of Contents on your docs pages, you can use the {:toc} method from Kramdown, immediately after an &lt;ol&gt; in Markdown. This will automatically generate an ordered list of anchor links to various sections of the page based on headings and heading levels. There may be occasions where you’re using a heading and you don’t want it to show up in the TOC, so to skip a particular heading use the {: .no_toc } CSS class. Example (in-page navigation with Table of Contents) . # Navigation Structure {: .no_toc } ## {: .no_toc .text-delta } 1. TOC {:toc} . This example skips the page name heading (#) from the TOC, as well as the heading for the Table of Contents itself (##) because it is redundant, followed by the table of contents itself. To get an unordered list, replace 1. TOC above by - TOC. Collapsible Table of Contents . The Table of Contents can be made collapsible using the &lt;details&gt; and &lt;summary&gt; elements, as in the following example. The attribute open (expands the Table of Contents by default) and the styling with {: .text-delta } are optional. &lt;details open markdown=\"block\"&gt; &lt;summary&gt; &lt;/summary&gt; {: .text-delta } 1. TOC {:toc} &lt;/details&gt; . The result is shown at the top of this page ({:toc} can be used only once on each page). ",
     "url": "/docs/navigation-structure/#in-page-navigation-with-table-of-contents",
     
     "relUrl": "/docs/navigation-structure/#in-page-navigation-with-table-of-contents"
-  },"374": {
+  },"375": {
     "doc": "Responsive Modifiers",
     "title": "Responsive modifiers",
     "content": "Just the Docs spacing works in conjunction with a variety of modifiers that allow you to target specific screen sizes responsively. Use these in conjunction with spacing and display prefix and suffix classes. | Modifier | Screen size | . | (none) | All screens until the next modifier | . | xs | 320px (20rem) and up | . | sm | 500px (31.25rem) and up | . | md | 740px (46.25rem) and up | . | lg | 1120px (70rem) and up | . | xl | 1400px (87.5rem) and up | . ",
     "url": "/docs/utilities/responsive-modifiers/#responsive-modifiers",
     
     "relUrl": "/docs/utilities/responsive-modifiers/#responsive-modifiers"
-  },"375": {
+  },"376": {
     "doc": "Responsive Modifiers",
     "title": "Responsive Modifiers",
     "content": " ",
     "url": "/docs/utilities/responsive-modifiers/",
     
     "relUrl": "/docs/utilities/responsive-modifiers/"
-  },"376": {
+  },"377": {
     "doc": "Search",
     "title": "Search",
     "content": " ",
     "url": "/docs/search/",
     
     "relUrl": "/docs/search/"
-  },"377": {
+  },"378": {
     "doc": "Search",
     "title": "Table of contents",
     "content": ". | Enable search in configuration . | Search granularity | Search previews | Search tokenizer | Display URL in search results | Display search button | . | Hiding pages from search . | Example | . | Generate search index when used as a gem | Custom content for search index . | Example | . | . Just the Docs uses lunr.js to add a client-side search interface powered by a JSON index that Jekyll generates. All search results are shown in an auto-complete style interface (there is no search results page). By default, all generated HTML pages are indexed using the following data points: . | Page title | Page content | Page URL | . ",
     "url": "/docs/search/#table-of-contents",
     
     "relUrl": "/docs/search/#table-of-contents"
-  },"378": {
+  },"379": {
     "doc": "Search",
     "title": "Enable search in configuration",
     "content": "In your site’s _config.yml, enable search: . # Enable or disable the site search # Supports true (default) or false search_enabled: true . Search granularity . Pages are split into sections that can be searched individually. The sections are defined by the headings on the page. Each section is displayed in a separate search result. # Split pages into sections that can be searched individually # Supports 1 - 6, default: 2 search.heading_level: 2 . Search previews . A search result can contain previews that show where the search words are found in the specific section. # Maximum amount of previews per search result # Default: 3 search.previews: 3 # Maximum amount of words to display before a matched word in the preview # Default: 5 search.preview_words_before: 5 # Maximum amount of words to display after a matched word in the preview # Default: 10 search.preview_words_after: 10 . Search tokenizer . The default is for hyphens to separate tokens in search terms: gem-based is equivalent to gem based, matching either word. To allow search for hyphenated words: . # Set the search token separator # Default: /[\\s\\-/]+/ # Example: enable support for hyphenated search words search.tokenizer_separator: /[\\s/]+/ . Display URL in search results . # Display the relative url in search results # Supports true (default) or false search.rel_url: false . Display search button . The search button displays in the bottom right corner of the screen and triggers the search input when clicked. # Enable or disable the search button that appears in the bottom right corner of every page # Supports true or false (default) search.button: true . ",
     "url": "/docs/search/#enable-search-in-configuration",
     
     "relUrl": "/docs/search/#enable-search-in-configuration"
-  },"379": {
+  },"380": {
     "doc": "Search",
     "title": "Hiding pages from search",
     "content": "Sometimes you might have a page that you don’t want to be indexed for the search nor to show up in search results, e.g., a 404 page. To exclude a page from search, add the search_exclude: true parameter to the page’s YAML front matter: . Example . --- layout: default title: Page not found nav_exclude: true search_exclude: true --- . ",
     "url": "/docs/search/#hiding-pages-from-search",
     
     "relUrl": "/docs/search/#hiding-pages-from-search"
-  },"380": {
+  },"381": {
     "doc": "Search",
     "title": "Generate search index when used as a gem",
     "content": "If you use Just the Docs as a remote theme, you do not need the following steps. If you use the theme as a gem, you must initialize the search by running this rake command that comes with just-the-docs: . $ bundle exec just-the-docs rake search:init . This command creates the assets/js/zzzz-search-data.json file that Jekyll uses to create your search index. Alternatively, you can create the file manually with this content. ",
     "url": "/docs/search/#generate-search-index-when-used-as-a-gem",
     
     "relUrl": "/docs/search/#generate-search-index-when-used-as-a-gem"
-  },"381": {
+  },"382": {
     "doc": "Search",
     "title": "Custom content for search index",
     "content": "New (v0.4.0) . Advanced . By default, the search feature indexes a page’s .content, .title, and some headers within the .content. Other data (e.g. front matter, files in _data and assets) is not indexed. Users can customize what is indexed. Customizing search indices is an advanced feature that requires Javascript and Liquid knowledge. | When Just the Docs is a local or gem theme, ensure assets/js/zzzz-search-data.json is up-to-date with Generate search index when used as a gem. | Add a new file named _includes/lunr/custom-data.json. Insert custom Liquid code that reads your data (e.g. the page object at include.page) then generates custom Javascript fields that hold the custom data you want to index. Verify these fields in the generated assets/js/search-data.json. | Add a new file named _includes/lunr/custom-index.js. Insert custom Javascript code that reads your custom Javascript fields and inserts them into the search index. You may want to inspect assets/js/just-the-docs.js to better understand the code. | . Example . This example adds front matter usage and examples fields to the search index. _includes/lunr/custom-data.json custom code reads the page usage and examples fields, normalizes the text, and writes the text to custom Javascript myusage and myexamples fields. Javascript fields are similar yet not the same as JSON. jsonify will probably work for most scenarios. {%- capture newline %} {% endcapture -%} \"myusage\": {{ include.page.usage | markdownify | replace:newline,' ' | strip_html | normalize_whitespace | strip | jsonify }}, \"myexamples\": {{ include.page.examples | markdownify | replace:newline,' ' | strip_html | normalize_whitespace | strip | jsonify }}, . _includes/lunr/custom-index.js custom code is inserted into the Javascript loop of assets/js/just-the-docs.js. All custom Javascript fields are accessed as fields of docs[i] such as docs[i].myusage. Finally, append your custom fields on to the already existing docs[i].content. const content_to_merge = [docs[i].content, docs[i].myusage, docs[i].myexamples]; docs[i].content = content_to_merge.join(' '); . ",
     "url": "/docs/search/#custom-content-for-search-index",
     
     "relUrl": "/docs/search/#custom-content-for-search-index"
-  },"382": {
+  },"383": {
     "doc": "Tables",
     "title": "Tables",
     "content": "Tables are responsive by default, allowing wide tables to have a horizontal scroll to access columns outside of the normal viewport. | head1 | head two | three | . | ok | good swedish fish | nice | . | out of stock | good and plenty | nice | . | ok | good oreos | hmm | . | ok | good zoute drop | yumm | . | head1 | head two | three |:-------------|:------------------|:------| ok | good swedish fish | nice | out of stock | good and plenty | nice | ok | good `oreos` | hmm | ok | good `zoute` drop | yumm | . ",
     "url": "/docs/ui-components/tables/",
     
     "relUrl": "/docs/ui-components/tables/"
-  },"383": {
+  },"384": {
     "doc": "Chef向け",
     "title": "このwebサイトについて",
     "content": ". | この記事の目的 | webサイト更新までの大まかな流れ | 準備 | 記事更新の仕方 . | 保存場所 | レジュメの書き方 | webサイトへの公開の仕方 | . | . ",
     "url": "/docs/to_chef/#%E3%81%93%E3%81%AEweb%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
     
     "relUrl": "/docs/to_chef/#このwebサイトについて"
-  },"384": {
+  },"385": {
     "doc": "Chef向け",
     "title": "この記事の目的",
     "content": "このwebサイトはGitHubPagesを用いて配信されている静的サイトです． 自主ゼミ期間中，Discordでは埋もれがちな全体向けの内容をこのページを用いて，参加者らに伝達することができます． この記事を読めば記事を追加すると同時にwebサイトに反映することができるので，ぜひ習得してください． . ",
     "url": "/docs/to_chef/#%E3%81%93%E3%81%AE%E8%A8%98%E4%BA%8B%E3%81%AE%E7%9B%AE%E7%9A%84",
     
     "relUrl": "/docs/to_chef/#この記事の目的"
-  },"385": {
+  },"386": {
     "doc": "Chef向け",
     "title": "webサイト更新までの大まかな流れ",
-    "content": "まず，このディレクトリの構造を下に示します． . ├─.devcontainer ├─.github ├─.jekyll-cache ├─.vscode ├─assets ├─bin ├─docs ├─fixtures ├─lib ├─_includes ├─_layouts ├─_sass └─_site . 本来，GitHubPagesを用いて配信されているwebサイトはgit pushを行えば自動で反映される手はずになっています． しかし，今回用いているテンプレートがGitHubPagesに対応していないため，少し面倒な手順を踏んでいます． 大まかな手順は以下の通りです． . | bundle exec jekyll buildを実行してローカルで.mdファイルで書かれた記事を.htmlに変換する． | 変更の履歴を取るためにharry-arbrebleu/seminar-publicにgit pushする． | 1で作成したファイル一式が吐き出されたディレクトリ，./_siteを別のフォルダseminar-webにコピーアンドペーストする． | 作成された.htmlファイルのpathが間違っているため，修正用のpythonファイルchange.pyを実行して直す． | test3をgit pushしてwebサイトが完成する． | . TODO: これをまとめて行うためのシェルスクリプトを書く． . ",
+    "content": "まず，このディレクトリの構造を下に示します． . ├─.devcontainer ├─.github ├─.jekyll-cache ├─.vscode ├─assets ├─bin ├─docs ├─fixtures ├─lib ├─_includes ├─_layouts ├─_sass └─_site . 本来，GitHubPagesを用いて配信されているwebサイトはgit pushを行えば自動で反映される手はずになっています． しかし，今回用いているテンプレートがGitHubPagesに対応していないため，少し面倒な手順を踏んでいます． 大まかな手順は以下の通りです． . | bundle exec jekyll buildを実行してローカルで.mdファイルで書かれた記事を.htmlに変換する． | 変更の履歴を取るためにharry-arbrebleu/seminar-publicにgit pushする． | 1で作成したファイル一式が吐き出されたディレクトリ，./_siteを別のフォルダseminar-webにコピーアンドペーストする． | 作成された.htmlファイルのpathが間違っているため，修正用のpythonファイルchange.pyを実行して直す． | seminar-webをgit pushしてwebサイトが完成する． | . ",
     "url": "/docs/to_chef/#web%E3%82%B5%E3%82%A4%E3%83%88%E6%9B%B4%E6%96%B0%E3%81%BE%E3%81%A7%E3%81%AE%E5%A4%A7%E3%81%BE%E3%81%8B%E3%81%AA%E6%B5%81%E3%82%8C",
     
     "relUrl": "/docs/to_chef/#webサイト更新までの大まかな流れ"
-  },"386": {
+  },"387": {
     "doc": "Chef向け",
     "title": "準備",
     "content": "若干の環境構築が必要です．必要な環境は以下の通りです． . | python3 | ruby | git | . これらの環境構築が済んでいる方はこちらへ飛んでください． 済んでいない方は適宜検索しながら環境構築してください． . ",
     "url": "/docs/to_chef/#%E6%BA%96%E5%82%99",
     
     "relUrl": "/docs/to_chef/#準備"
-  },"387": {
+  },"388": {
     "doc": "Chef向け",
     "title": "記事更新の仕方",
-    "content": "保存場所 . 例として，集合論ゼミの階層構造を示します． ゼミのディレクトリ名はアメリカ英語でつけてあるので，docsディレクトリの中から探してください． . set │ main.md │ └─corse ├─0 │ main.md │ └─src 初学者のための集合論入門(演習編).pdf 初学者のための集合論入門.pdf . ディレクトリ直下にあるmain.mdファイルはシラバスです． 必要に応じて変更してください．その際，変更日時を記事内に明記するのを忘れないようにしてください． corseディレクトリ内にある数字の書かれたフォルダはゼミの各回に対応しています． 毎回のゼミで新しくフォルダを作って，資料が散らばらないようにしてください． ゼミの各回の資料を保存できます．レジュメは.mdファイルで作成して，各回のフォルダに保存してください． srcディレクトリ内には，何度も参照したい資料をまとめて保存できます． . レジュメの書き方 . 以下に各回のレジュメのテンプレートを示します． 適宜変更して用いてください． . --- layout: default title: 第n回レジュメ(nを記入) nav_order: n(ゼミの回数を記入) parent: (ゼミ名を記入) grand_parent: 自主ゼミリスト --- &lt;script type=\"text/javascript\" async src=\"https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML\"&gt; &lt;/script&gt; &lt;script type=\"text/x-mathjax-config\"&gt; MathJax.Hub.Config({ tex2jax: { inlineMath: [['$', '$'] ], displayMath: [ ['$$','$$'], [\"\\\\[\",\"\\\\]\"] ] } }); &lt;/script&gt; # 第n回レジュメ(nを記入) ### 担当者: (担当者のdiscordアカウント名を記入) 以下本文 . なお，レジュメは各参加者が作成しますが，参加者が直接pushすることはせず，Chefがpushしてください． これはGitHubの操作に不慣れな参加者がいることが予想されるからです． DiscordのDMなどで作成されたレジュメを受け取り，Chefがpushしてください． . webサイトへの公開の仕方 . | seminar-webとseminar-publicが同位置になるようにしてください． 以下のようなイメージです． ├─seminar-web ├─seminar-public . | (初回のみ)それぞれのディレクトリでgit initを実行してください． | (初回のみ)それぞれのディレクトリでgit pull | . ",
+    "content": "保存場所 . 例として，集合論ゼミの階層構造を示します． ゼミのディレクトリ名はアメリカ英語でつけてあるので，docsディレクトリの中から探してください． . set │ main.md │ └─corse ├─0 │ main.md │ └─src 初学者のための集合論入門(演習編).pdf 初学者のための集合論入門.pdf . ディレクトリ直下にあるmain.mdファイルはシラバスです． 必要に応じて変更してください．その際，変更日時を記事内に明記するのを忘れないようにしてください． corseディレクトリ内にある数字の書かれたフォルダはゼミの各回に対応しています． 毎回のゼミで新しくフォルダを作って，資料が散らばらないようにしてください． ゼミの各回の資料を保存できます．レジュメは.mdファイルで作成して，各回のフォルダに保存してください． srcディレクトリ内には，何度も参照したい資料をまとめて保存できます． . レジュメの書き方 . 以下に各回のレジュメのテンプレートを示します． 適宜変更して用いてください． . --- layout: default title: 第n回レジュメ(nを記入) nav_order: n(ゼミの回数を記入) parent: (ゼミ名を記入) grand_parent: 自主ゼミリスト --- &lt;script type=\"text/javascript\" async src=\"https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML\"&gt; &lt;/script&gt; &lt;script type=\"text/x-mathjax-config\"&gt; MathJax.Hub.Config({ tex2jax: { inlineMath: [['$', '$'] ], displayMath: [ ['$$','$$'], [\"\\\\[\",\"\\\\]\"] ] } }); &lt;/script&gt; # 第n回レジュメ(nを記入) ### 担当者: (担当者のdiscordアカウント名を記入) 以下本文 . なお，レジュメは各参加者が作成しますが，参加者が直接pushすることはせず，Chefがpushしてください． これはGitHubの操作に不慣れな参加者がいることが予想されるからです． DiscordのDMなどで作成されたレジュメを受け取り，Chefがpushしてください． . webサイトへの公開の仕方 . | seminar-webとseminar-publicが同位置になるようにしてください． 以下のようなイメージです． ├─seminar-web ├─seminar-public . | (初回のみ)それぞれのディレクトリでgit initを実行してください． | seminar-publicディレクトリでコマンド.\\make_web.batを実行してください． | およそ1分ほどでwebサイトが更新されています． | . ",
     "url": "/docs/to_chef/#%E8%A8%98%E4%BA%8B%E6%9B%B4%E6%96%B0%E3%81%AE%E4%BB%95%E6%96%B9",
     
     "relUrl": "/docs/to_chef/#記事更新の仕方"
-  },"388": {
+  },"389": {
     "doc": "Chef向け",
     "title": "Chef向け",
     "content": " ",
     "url": "/docs/to_chef/",
     
     "relUrl": "/docs/to_chef/"
-  },"389": {
+  },"390": {
     "doc": "Typography",
     "title": "Typography Utilities",
     "content": " ",
     "url": "/docs/utilities/typography/#typography-utilities",
     
     "relUrl": "/docs/utilities/typography/#typography-utilities"
-  },"390": {
+  },"391": {
     "doc": "Typography",
     "title": "Table of contents",
     "content": ". | Font size | Font weight | Line height | Text justification | . ",
     "url": "/docs/utilities/typography/#table-of-contents",
     
     "relUrl": "/docs/utilities/typography/#table-of-contents"
-  },"391": {
+  },"392": {
     "doc": "Typography",
     "title": "Font size",
     "content": "Use the .fs-1 - .fs-10 to set an explicit font-size. | Class | Small screen size font-size | Large screen size font-size | . | .fs-1 | 9px | 10px | . | .fs-2 | 11px | 12px | . | .fs-3 | 12px | 14px | . | .fs-4 | 14px | 16px | . | .fs-5 | 16px | 18px | . | .fs-6 | 18px | 24px | . | .fs-7 | 24px | 32px | . | .fs-8 | 32px | 38px | . | .fs-9 | 38px | 42px | . | .fs-10 | 42px | 48px | . Font size 1 . Font size 2 . Font size 3 . Font size 4 . Font size 5 . Font size 6 . Font size 7 . Font size 8 . Font size 9 . Font size 10 . In Markdown, use the `{: }` wrapper to apply custom classes: Font size 1 {: .fs-1 } Font size 2 {: .fs-2 } Font size 3 {: .fs-3 } Font size 4 {: .fs-4 } Font size 5 {: .fs-5 } Font size 6 {: .fs-6 } Font size 7 {: .fs-7 } Font size 8 {: .fs-8 } Font size 9 {: .fs-9 } Font size 10 {: .fs-10 } . ",
     "url": "/docs/utilities/typography/#font-size",
     
     "relUrl": "/docs/utilities/typography/#font-size"
-  },"392": {
+  },"393": {
     "doc": "Typography",
     "title": "Font weight",
     "content": "Use the .fw-300 - .fw-700 to set an explicit font-weight. Font weight 300 . Font weight 400 . Font weight 500 . Font weight 700 . In Markdown, use the `{: }` wrapper to apply custom classes: Font weight 300 {: .fw-300 } Font weight 400 {: .fw-400 } Font weight 500 {: .fw-500 } Font weight 700 {: .fw-700 } . ",
     "url": "/docs/utilities/typography/#font-weight",
     
     "relUrl": "/docs/utilities/typography/#font-weight"
-  },"393": {
+  },"394": {
     "doc": "Typography",
     "title": "Line height",
     "content": "Use the lh- classes to explicitly apply line height to text. | Class | line-height value | Notes | . | .lh-0 | 0 |   | . | .lh-tight | 1.1 | Default for headings | . | .lh-default | 1.4 | Default for body (paragraphs) | . No Line height No Line height . Tight line height Tight line height . Default line height Default line height . In Markdown, use the `{: }` wrapper to apply custom classes: No Line height No Line height {: .lh-0 } Tight line height Tight line height {: .lh-tight } Default line height Default line height {: .fh-default } . ",
     "url": "/docs/utilities/typography/#line-height",
     
     "relUrl": "/docs/utilities/typography/#line-height"
-  },"394": {
+  },"395": {
     "doc": "Typography",
     "title": "Text justification",
     "content": "By default text is justified left. Use these text- classes to override settings: . | Class | What it does | . | .text-left | text-align: left | . | .text-right | text-align: right | . | .text-center | text-align: center | . ",
     "url": "/docs/utilities/typography/#text-justification",
     
     "relUrl": "/docs/utilities/typography/#text-justification"
-  },"395": {
+  },"396": {
     "doc": "Typography",
     "title": "Typography",
     "content": " ",
     "url": "/docs/utilities/typography/",
     
     "relUrl": "/docs/utilities/typography/"
-  },"396": {
+  },"397": {
     "doc": "Typography",
     "title": "Typography",
     "content": " ",
     "url": "/docs/ui-components/typography/",
     
     "relUrl": "/docs/ui-components/typography/"
-  },"397": {
+  },"398": {
     "doc": "Typography",
     "title": "Table of contents",
     "content": ". | Font stack | Responsive type scale | Headings | Body text | Inline elements | Typographic Utilities | . ",
     "url": "/docs/ui-components/typography/#table-of-contents",
     
     "relUrl": "/docs/ui-components/typography/#table-of-contents"
-  },"398": {
+  },"399": {
     "doc": "Typography",
     "title": "Font stack",
     "content": "By default, Just the Docs uses a native system font stack for sans-serif fonts: . system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Segoe UI Emoji\" . ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz . For monospace type, like code snippets or the &lt;pre&gt; element, Just the Docs uses a native system font stack for monospace fonts: . \"SFMono-Regular\", Menlo, Consolas, Monospace . ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz . ",
     "url": "/docs/ui-components/typography/#font-stack",
     
     "relUrl": "/docs/ui-components/typography/#font-stack"
-  },"399": {
+  },"400": {
     "doc": "Typography",
     "title": "Responsive type scale",
     "content": "Just the Docs uses a responsive type scale that shifts depending on the viewport size. | Selector | Small screen size font-size | Large screen size font-size | . | h1, .text-alpha | 32px | 36px | . | h2, .text-beta | 18px | 24px | . | h3, .text-gamma | 16px | 18px | . | h4, .text-delta | 14px | 16px | . | h5, .text-epsilon | 16px | 18px | . | h6, .text-zeta | 18px | 24px | . | body | 14px | 16px | . ",
     "url": "/docs/ui-components/typography/#responsive-type-scale",
     
     "relUrl": "/docs/ui-components/typography/#responsive-type-scale"
-  },"400": {
+  },"401": {
     "doc": "Typography",
     "title": "Headings",
     "content": "Headings are rendered like this: . ",
     "url": "/docs/ui-components/typography/#headings",
     
     "relUrl": "/docs/ui-components/typography/#headings"
-  },"401": {
+  },"402": {
     "doc": "Typography",
     "title": "Heading 1",
     "content": " ",
     "url": "/docs/ui-components/typography/",
     
     "relUrl": "/docs/ui-components/typography/"
-  },"402": {
+  },"403": {
     "doc": "Typography",
     "title": "Heading 2",
     "content": "Heading 3 . Heading 4 . Heading 5 . Heading 6 . # Heading 1 ## Heading 2 ### Heading 3 #### Heading 4 ##### Heading 5 ###### Heading 6 . ",
     "url": "/docs/ui-components/typography/",
     
     "relUrl": "/docs/ui-components/typography/"
-  },"403": {
+  },"404": {
     "doc": "Typography",
     "title": "Body text",
     "content": "Default body text is rendered like this: . Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
     "url": "/docs/ui-components/typography/#body-text",
     
     "relUrl": "/docs/ui-components/typography/#body-text"
-  },"404": {
+  },"405": {
     "doc": "Typography",
     "title": "Inline elements",
     "content": "Text can be bold, italic, or strikethrough. Link to another page. Text can be **bold**, _italic_, or ~~strikethrough~~. [Link to another page](/). ",
     "url": "/docs/ui-components/typography/#inline-elements",
     
     "relUrl": "/docs/ui-components/typography/#inline-elements"
-  },"405": {
+  },"406": {
     "doc": "Typography",
     "title": "Typographic Utilities",
     "content": "There are a number of specific typographic CSS classes that allow you to override default styling for font size, font weight, line height, and capitalization. View typography utilities . ",
     "url": "/docs/ui-components/typography/#typographic-utilities",
     
     "relUrl": "/docs/ui-components/typography/#typographic-utilities"
-  },"406": {
+  },"407": {
     "doc": "UI Components",
     "title": "UI Components",
     "content": "To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed. ",
     "url": "/docs/ui-components",
     
     "relUrl": "/docs/ui-components"
-  },"407": {
+  },"408": {
     "doc": "Utilities",
     "title": "Utilities",
     "content": "CSS utility classes come in handy when you want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size. ",
     "url": "/docs/utilities",
     
     "relUrl": "/docs/utilities"
-  },"408": {
-    "doc": "始めての方へ",
-    "title": "そもそも自主ゼミって何？",
-    "content": " ",
-    "url": "/docs/welcome/#%E3%81%9D%E3%82%82%E3%81%9D%E3%82%82%E8%87%AA%E4%B8%BB%E3%82%BC%E3%83%9F%E3%81%A3%E3%81%A6%E4%BD%95",
-    
-    "relUrl": "/docs/welcome/#そもそも自主ゼミって何"
   },"409": {
-    "doc": "始めての方へ",
-    "title": "なんのゼミがあるの？",
-    "content": " ",
-    "url": "/docs/welcome/#%E3%81%AA%E3%82%93%E3%81%AE%E3%82%BC%E3%83%9F%E3%81%8C%E3%81%82%E3%82%8B%E3%81%AE",
-    
-    "relUrl": "/docs/welcome/#なんのゼミがあるの"
-  },"410": {
-    "doc": "始めての方へ",
-    "title": "参加したいんだけどどうしたらいい？",
-    "content": "Discordアカウントが必要です！ . このwebサイトはこの人たちが運営しています． . ",
-    "url": "/docs/welcome/#%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%9F%E3%81%84%E3%82%93%E3%81%A0%E3%81%91%E3%81%A9%E3%81%A9%E3%81%86%E3%81%97%E3%81%9F%E3%82%89%E3%81%84%E3%81%84",
-    
-    "relUrl": "/docs/welcome/#参加したいんだけどどうしたらいい"
-  },"411": {
-    "doc": "始めての方へ",
-    "title": "始めての方へ",
+    "doc": "はじめての方へ",
+    "title": "はじめての方へ",
     "content": " ",
     "url": "/docs/welcome/",
     
     "relUrl": "/docs/welcome/"
+  },"410": {
+    "doc": "はじめての方へ",
+    "title": "そもそもこれって何？",
+    "content": "これは，2ヶ月ほどある春休みを使って，みんなで一緒に勉強しようとする自主ゼミの集合体です． 慶應生であればどなたでも参加できます．塾高生は個別にご相談ください． . ",
+    "url": "/docs/welcome/#%E3%81%9D%E3%82%82%E3%81%9D%E3%82%82%E3%81%93%E3%82%8C%E3%81%A3%E3%81%A6%E4%BD%95",
+    
+    "relUrl": "/docs/welcome/#そもそもこれって何"
+  },"411": {
+    "doc": "はじめての方へ",
+    "title": "なんのゼミがあるの？",
+    "content": "こちらからご確認ください！ 全部で35種類あり，数学系が14種類，物理系が8種類，言語が5種類，情報系が4種類，その他趣味が4種類と幅広く準備しています！ また，2024年2月7日現在， . ",
+    "url": "/docs/welcome/#%E3%81%AA%E3%82%93%E3%81%AE%E3%82%BC%E3%83%9F%E3%81%8C%E3%81%82%E3%82%8B%E3%81%AE",
+    
+    "relUrl": "/docs/welcome/#なんのゼミがあるの"
+  },"412": {
+    "doc": "はじめての方へ",
+    "title": "参加したいんだけどどうしたらいい？",
+    "content": "Discordアカウントとtwitterアカウントがが必要です！ . | 学部，学年，名前を添えて@harry_arbrebleuまでDMをお願いします． | 24時間以内にDiscordの招待リンクが届くので，それをクリックしてDiscordに参加してください． | 参加するゼミを選択するフォームが雑談チャンネルにあるので入力してください． | Discordで該当チャンネルへのアクセス権限が届くと参加登録完了です． | . ",
+    "url": "/docs/welcome/#%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%9F%E3%81%84%E3%82%93%E3%81%A0%E3%81%91%E3%81%A9%E3%81%A9%E3%81%86%E3%81%97%E3%81%9F%E3%82%89%E3%81%84%E3%81%84",
+    
+    "relUrl": "/docs/welcome/#参加したいんだけどどうしたらいい"
   }
 }
